@@ -1,17 +1,20 @@
-package com.elmarschraml.gameschedule.export;
+package com.elmarschraml.gameschedule;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ConfigurationProperties(prefix="export")
-public class ExporterProperties {
+@ConfigurationProperties(prefix="gameschedule")
+public class GamescheduleProperties {
     private String dateFromMatchSeparator;
     private String teamsOfMatchSeparator;
     private String dateFormatString;
     private String destinationFolder;
     private String destinationFilename;
     private String destinationFileextension;
+    private String importFolder;
+    private String importFilename;
+    private String importFileextension;
 
 
     public String getDateFromMatchSeparator() {
@@ -61,5 +64,29 @@ public class ExporterProperties {
 
     public void setDestinationFileextension(String destinationFileextension) {
         this.destinationFileextension = destinationFileextension;
+    }
+
+    public String getImportFolder() {
+        return importFolder;
+    }
+
+    public void setImportFolder(String importFolder) {
+        this.importFolder = importFolder;
+    }
+
+    public String getImportFilename() {
+        return importFilename;
+    }
+
+    public void setImportFilename(String importFilename) {
+        this.importFilename = importFilename;
+    }
+
+    public String getImportFileextension() {
+        return importFileextension;
+    }
+
+    public void setImportFileextension(String importFileextension) {
+        this.importFileextension = importFileextension;
     }
 }

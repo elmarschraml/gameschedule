@@ -27,18 +27,16 @@ Check that java -version returns Java 11.
 ### Limitations and Roadmap
 * Currently only supports reading a single season file at a time, because it simply reads the first file it finds. Could easily be extended to read several files at once.
 * Likewise, currently expects only a single season's data per file
-* output encoding is hardcoded to UTF-8, input encoding is assumed to be UTF-8
+* output encoding is hardcoded to UTF-8
+* input encoding is required to be ISO-8859-1 (as in provided sample data)
 * A league and season currently have no metadata associated. Names of both are accepted as arbitrary strings with no validation or check for uniqueness.
 * Data is currently not persisted, but the output file recreated on each run. You could e.g. provide a new implementation of Exporter that also writes to a database.
 * No performance tests have been done, scaling beyond a 2-digit number of teams is unknown.
 * Likewise, currently not intended for parralel/multi-threaded execution
 
 ### TODOs
-* config for format and dir of export file
 * lib for json 
 * impl importer
-* impl exporter
-* unittest exporter
 * impl scheduler
 * unittest scheduler
 * caller

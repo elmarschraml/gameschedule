@@ -1,5 +1,6 @@
 package com.elmarschraml.gameschedule.export;
 
+import com.elmarschraml.gameschedule.GamescheduleProperties;
 import com.elmarschraml.gameschedule.data.Match;
 import com.elmarschraml.gameschedule.data.Season;
 import com.elmarschraml.gameschedule.data.Team;
@@ -32,13 +33,13 @@ public class SeasonFileExporterTest {
     private static final Team team3 = new Team("Bazzes");
     private static final Team team4 = new Team("The Runtime Exceptions");
     LocalDate now;
-    private static ExporterProperties properties;
+    private static GamescheduleProperties properties;
     private static Team[] sampleTeams = {new Team("Foos"), new Team("Bars"), new Team("Bazzes")};
     private static final List<Team> teams = Arrays.asList(sampleTeams);
 
     @BeforeAll
     public static void setupProperties() {
-        properties = new ExporterProperties();
+        properties = new GamescheduleProperties();
         properties.setDateFromMatchSeparator("|");
         properties.setTeamsOfMatchSeparator("-");
         properties.setDateFormatString("EE dd.MM.yyyy");
@@ -51,7 +52,7 @@ public class SeasonFileExporterTest {
     public void reset() {
         now = LocalDate.now();
         exporter = new SeasonFileExporter();
-        exporter.setExporterProperties(properties);
+        exporter.setGamescheduleProperties(properties);
         baseSeason = new Season();
         setBaseData(baseSeason);
     }

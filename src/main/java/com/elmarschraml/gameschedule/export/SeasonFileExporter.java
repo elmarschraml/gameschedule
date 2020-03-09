@@ -1,5 +1,6 @@
 package com.elmarschraml.gameschedule.export;
 
+import com.elmarschraml.gameschedule.GamescheduleProperties;
 import com.elmarschraml.gameschedule.data.Match;
 import com.elmarschraml.gameschedule.data.Season;
 import org.apache.commons.io.FileUtils;
@@ -21,14 +22,10 @@ public class SeasonFileExporter implements SeasonExporter {
     private static final String timestampPattern = "";
 
     @Autowired
-    private ExporterProperties exporterProperties;
+    private GamescheduleProperties gamescheduleProperties;
 
-    public ExporterProperties getExporterProperties() {
-        return exporterProperties;
-    }
-
-    public void setExporterProperties(ExporterProperties exporterProperties) {
-        this.exporterProperties = exporterProperties;
+    public void setGamescheduleProperties(GamescheduleProperties gamescheduleProperties) {
+        this.gamescheduleProperties = gamescheduleProperties;
     }
 
     @Override
@@ -55,15 +52,15 @@ public class SeasonFileExporter implements SeasonExporter {
 
     private String getFilePathAndName() {
         StringBuilder pathToFile = new StringBuilder();
-        if (!exporterProperties.getDestinationFolder().isBlank()) {
-            pathToFile.append(exporterProperties.getDestinationFolder());
+        if (!gamescheduleProperties.getDestinationFolder().isBlank()) {
+            pathToFile.append(gamescheduleProperties.getDestinationFolder());
             pathToFile.append("/");
         }
-        pathToFile.append(exporterProperties.getDestinationFilename());
+        pathToFile.append(gamescheduleProperties.getDestinationFilename());
         DateTimeFormatter timestampFormat = DateTimeFormatter.ofPattern("yyyy-MM-dd-HH-mm-ss");
         pathToFile.append(timestampFormat.format(LocalDateTime.now()));
         pathToFile.append(".");
-        pathToFile.append(exporterProperties.getDestinationFileextension());
+        pathToFile.append(gamescheduleProperties.getDestinationFileextension());
         return pathToFile.toString();
     }
 
@@ -71,14 +68,14 @@ public class SeasonFileExporter implements SeasonExporter {
         StringBuilder output = new StringBuilder();
         //will throw IllegalArgumentException on wrong pattern syntax - which is an illegal input, so re-throw according to our own javadoc
         //passing a formatter, instead of re-creating it, would increase performance, but handled internally here for the sake of a clean API
-        DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern(exporterProperties.getDateFormatString(), Locale.GERMANY);
+        DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern(gamescheduleProperties.getDateFormatString(), Locale.GERMANY);
         output.append(dateFormatter.format(match.getDate()));
         output.append(" ");
-        output.append(exporterProperties.getDateFromMatchSeparator());
+        output.append(gamescheduleProperties.getDateFromMatchSeparator());
         output.append(" ");
         output.append(match.getHomeTeam().getName());
         output.append(" ");
-        output.append(exporterProperties.getTeamsOfMatchSeparator());
+        output.append(gamescheduleProperties.getTeamsOfMatchSeparator());
         output.append(" ");
         output.append(match.getAwayTeam().getName());
         return output.toString();

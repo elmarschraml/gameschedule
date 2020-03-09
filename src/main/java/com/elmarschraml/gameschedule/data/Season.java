@@ -1,5 +1,10 @@
 package com.elmarschraml.gameschedule.data;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+import com.fasterxml.jackson.datatype.jsr310.deser.LocalDateDeserializer;
+
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
@@ -28,6 +33,7 @@ public class Season {
         return leagueName;
     }
 
+    @JsonProperty("league")
     public void setLeagueName(String leagueName) {
         this.leagueName = leagueName;
     }
@@ -36,6 +42,7 @@ public class Season {
         return seasonName;
     }
 
+    @JsonProperty("season")
     public void setSeasonName(String seasonName) {
         this.seasonName = seasonName;
     }
@@ -44,6 +51,9 @@ public class Season {
         return startDate;
     }
 
+    @JsonProperty("start")
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
+    @JsonDeserialize(using= LocalDateDeserializer.class)
     public void setStartDate(LocalDate startDate) {
         this.startDate = startDate;
     }
@@ -52,6 +62,9 @@ public class Season {
         return endDate;
     }
 
+    @JsonProperty("end")
+    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd")
+    @JsonDeserialize(using= LocalDateDeserializer.class)
     public void setEndDate(LocalDate endDate) {
         this.endDate = endDate;
     }
