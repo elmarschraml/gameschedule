@@ -5,7 +5,7 @@ import com.elmarschraml.gameschedule.data.Season;
 /**
  * Contains the scheduling logic for seasons
  */
-public interface Scheduler {
+public interface SeasonScheduler {
     /**
      * Adds a list of matches to be played to a season
      * @param season a season that has a start- and enddate, and a list of 2+ teams. Existing scheduled matches will be untouched and ignored.
