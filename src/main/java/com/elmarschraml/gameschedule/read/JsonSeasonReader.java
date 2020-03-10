@@ -6,6 +6,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.commons.io.FileUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 import java.io.File;
 import java.io.IOException;
@@ -14,6 +15,7 @@ import java.io.IOException;
 /**
  * reads the data of a season (without matches, since those will be created in-app) from json
  */
+@Component
 public class JsonSeasonReader implements SeasonReader {
 
     @Autowired

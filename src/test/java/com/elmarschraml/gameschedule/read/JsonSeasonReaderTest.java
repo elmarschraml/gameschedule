@@ -1,8 +1,6 @@
 package com.elmarschraml.gameschedule.read;
 
-import com.elmarschraml.gameschedule.GamescheduleProperties;
 import com.elmarschraml.gameschedule.data.Season;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

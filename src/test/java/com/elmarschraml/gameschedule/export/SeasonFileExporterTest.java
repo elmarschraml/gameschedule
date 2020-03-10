@@ -5,11 +5,7 @@ import com.elmarschraml.gameschedule.data.Match;
 import com.elmarschraml.gameschedule.data.Season;
 import com.elmarschraml.gameschedule.data.Team;
 
-import org.junit.Ignore;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 
 
 import java.io.IOException;
@@ -60,8 +56,8 @@ public class SeasonFileExporterTest {
     private void setBaseData(Season season) {
         season.setSeasonName(seasonName);
         season.setLeagueName(leagueName);
-        season.setStartDate(LocalDate.of(2015, Month.JANUARY,1));
-        season.setEndDate(LocalDate.of(2015, Month.DECEMBER,31));
+        season.setStartDate(LocalDate.of(2015, Month.JANUARY, 1));
+        season.setEndDate(LocalDate.of(2015, Month.DECEMBER, 31));
     }
 
     @Test
@@ -74,14 +70,14 @@ public class SeasonFileExporterTest {
     public void throwExceptionOnInvalidInput() throws IOException {
         baseSeason.setMatches(null);
         assertThrows(IllegalArgumentException.class,
-                ()->{
-                    exporter.exportSeason(baseSeason);
-                });
+                () ->
+                        exporter.exportSeason(baseSeason)
+        );
     }
 
     @Test
     public void exportSingleMatch() {
-        baseSeason.getMatches().add(new Match(now,team1, team2));
+        baseSeason.getMatches().add(new Match(now, team1, team2));
         List<String> outputLines = exporter.createOutputLines(baseSeason);
         assertTrue(outputLines.size() == 1, "a single match should be exported as a single line");
         String outputLine = outputLines.get(0);
@@ -90,22 +86,22 @@ public class SeasonFileExporterTest {
 
     @Test
     public void testCorrectNrOfLines() {
-        baseSeason.getMatches().add(new Match(now,team3,team4));
-        baseSeason.getMatches().add(new Match(now,team1,team2));
-        baseSeason.getMatches().add(new Match(now,team1,team4));
-        baseSeason.getMatches().add(new Match(now,team2,team4));
+        baseSeason.getMatches().add(new Match(now, team3, team4));
+        baseSeason.getMatches().add(new Match(now, team1, team2));
+        baseSeason.getMatches().add(new Match(now, team1, team4));
+        baseSeason.getMatches().add(new Match(now, team2, team4));
         List<String> outputLines = exporter.createOutputLines(baseSeason);
         assertTrue(outputLines.size() == 4, "export should have one line per match");
     }
 
     //not an actual unit test, since it has the side effect of actually writing to disk - run for manual checks
     @Test
-    @Ignore
-    public void actuallyWriteToFile()  {
-        baseSeason.getMatches().add(new Match(now,team3,team4));
-        baseSeason.getMatches().add(new Match(now,team1,team2));
-        baseSeason.getMatches().add(new Match(now,team1,team4));
-        baseSeason.getMatches().add(new Match(now,team2,team4));
+    @Disabled
+    public void actuallyWriteToFile() {
+        baseSeason.getMatches().add(new Match(now, team3, team4));
+        baseSeason.getMatches().add(new Match(now, team1, team2));
+        baseSeason.getMatches().add(new Match(now, team1, team4));
+        baseSeason.getMatches().add(new Match(now, team2, team4));
         try {
             exporter.exportSeason(baseSeason);
         } catch (IOException e) {
@@ -117,9 +113,9 @@ public class SeasonFileExporterTest {
         assertNotNull(outputLine, "export should not contain lines that are null");
         assertFalse(outputLine.isEmpty(), "export should not contain empty lines");
         assertTrue(outputLine.contains(homeTeamName), "a team seems to be missing in the output for a match");
-        assertTrue(outputLine.contains(awayTeamName),"a team seems to be missing in the output for a match");
+        assertTrue(outputLine.contains(awayTeamName), "a team seems to be missing in the output for a match");
         String yearString = Integer.toString(date.getYear()); //most basic check - assumes year is always contained in date format
-        assertTrue(outputLine.contains(yearString),"date seems not to appear in output for match");
+        assertTrue(outputLine.contains(yearString), "date seems not to appear in output for match");
         //intentionally does not check format, since that is dependant on configuration and implementation details
     }
 

@@ -3,6 +3,7 @@ package com.elmarschraml.gameschedule.schedule;
 import com.elmarschraml.gameschedule.data.Match;
 import com.elmarschraml.gameschedule.data.Season;
 import com.elmarschraml.gameschedule.data.Team;
+import org.springframework.stereotype.Component;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
@@ -11,15 +12,16 @@ import java.util.*;
 
 /**
  * matches will happen each sunday
- * can schedule a maximum of 1000 teams and a 10 year long season
+ * can schedule a maximum of 1000 teams and a 30 year long season
  * enddate is NOT considered a valid day for a match - that's when the championship celebration happens :-)
  *
  * @See com.elmarschraml.gameschedule.schedule.SeasonScheduler
  */
+@Component
 public class SundaySeasonScheduler implements SeasonScheduler {
 
     public static final int MAX_NR_OF_TEAMS = 1000;
-    public static final int MAX_DAYS_OF_SEASON = 3650;
+    public static final int MAX_DAYS_OF_SEASON = 10850;
 
     /**
      * A Schedule where each team will play each other team twice - first as home, then as away team
@@ -32,7 +34,8 @@ public class SundaySeasonScheduler implements SeasonScheduler {
         List<Match> allPairings = getAllPairings(season);
         List<LocalDate> allDates = getAllPossibleMatchDates(season.getStartDate(), season.getEndDate());
         if (allPairings.size() > allDates.size()) {
-            throw new IllegalStateException("not enough Sundays in the season to fit all games");
+            throw new IllegalStateException("not enough Sundays in the season to fit all games - got "+ allPairings.size() +
+                    " games, but only " + allDates.size() + " sundays");
         }
         List<Match> scheduledMatches = scheduleMatches(allPairings, allDates);
         season.setMatches(scheduledMatches);

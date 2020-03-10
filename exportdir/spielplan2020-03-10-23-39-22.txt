@@ -1,0 +1,1406 @@
+So. 02.01.2000 | Latte Macchiato Mütter Haidhausen - Burndown-Brüder
+So. 09.01.2000 | Latte Macchiato Mütter Haidhausen - Bleifuß BMW
+So. 16.01.2000 | Latte Macchiato Mütter Haidhausen - Pentium-Power
+So. 23.01.2000 | Latte Macchiato Mütter Haidhausen - Release-Rocker
+So. 30.01.2000 | Latte Macchiato Mütter Haidhausen - Fröttmaninger Fußballfans
+So. 06.02.2000 | Latte Macchiato Mütter Haidhausen - Team rot
+So. 13.02.2000 | Latte Macchiato Mütter Haidhausen - Team Blau
+So. 20.02.2000 | Latte Macchiato Mütter Haidhausen - Frischauf Freising
+So. 27.02.2000 | Latte Macchiato Mütter Haidhausen - Grillmeister vom Flaucher
+So. 05.03.2000 | Latte Macchiato Mütter Haidhausen - FC Miesbach
+So. 12.03.2000 | Latte Macchiato Mütter Haidhausen - Debugger Duisburg
+So. 19.03.2000 | Latte Macchiato Mütter Haidhausen - Kegelklub von umme Ecke
+So. 26.03.2000 | Latte Macchiato Mütter Haidhausen - Jahn München
+So. 02.04.2000 | Latte Macchiato Mütter Haidhausen - JWD Freimann
+So. 09.04.2000 | Latte Macchiato Mütter Haidhausen - Die Storypoints
+So. 16.04.2000 | Latte Macchiato Mütter Haidhausen - Lieber Scrum als Fußball
+So. 23.04.2000 | Latte Macchiato Mütter Haidhausen - Gitarrengötter Giesing
+So. 30.04.2000 | Latte Macchiato Mütter Haidhausen - Flachmänner vom Flaucher
+So. 07.05.2000 | Latte Macchiato Mütter Haidhausen - Isarritter
+So. 14.05.2000 | Latte Macchiato Mütter Haidhausen - Microsofties Unterhaching
+So. 21.05.2000 | Latte Macchiato Mütter Haidhausen - Olchinger Olme
+So. 28.05.2000 | Latte Macchiato Mütter Haidhausen - Team Foobar
+So. 04.06.2000 | Latte Macchiato Mütter Haidhausen - Shopping Queens PEP
+So. 11.06.2000 | Latte Macchiato Mütter Haidhausen - Tischkicker Neubiberg
+So. 18.06.2000 | Latte Macchiato Mütter Haidhausen - Weißblau Riem
+So. 25.06.2000 | Latte Macchiato Mütter Haidhausen - Product Owner United
+So. 02.07.2000 | Latte Macchiato Mütter Haidhausen - Bogenhausener Bananenflanker
+So. 09.07.2000 | Latte Macchiato Mütter Haidhausen - Scrum Masters
+So. 16.07.2000 | Latte Macchiato Mütter Haidhausen - Pythonistas
+So. 23.07.2000 | Latte Macchiato Mütter Haidhausen - Sprinter
+So. 30.07.2000 | Latte Macchiato Mütter Haidhausen - Leidgeprüfte 60er
+So. 06.08.2000 | Latte Macchiato Mütter Haidhausen - Truderinger Tastenquäler
+So. 13.08.2000 | Latte Macchiato Mütter Haidhausen - Hachinger Kickers
+So. 20.08.2000 | Latte Macchiato Mütter Haidhausen - Eisbachsurfer
+So. 27.08.2000 | Latte Macchiato Mütter Haidhausen - Rate limited Kanban
+So. 03.09.2000 | Latte Macchiato Mütter Haidhausen - P.A. Sing
+So. 10.09.2000 | Latte Macchiato Mütter Haidhausen - PHP-Proleten
+So. 17.09.2000 | Burndown-Brüder - Bleifuß BMW
+So. 24.09.2000 | Burndown-Brüder - Pentium-Power
+So. 01.10.2000 | Burndown-Brüder - Release-Rocker
+So. 08.10.2000 | Burndown-Brüder - Fröttmaninger Fußballfans
+So. 15.10.2000 | Burndown-Brüder - Team rot
+So. 22.10.2000 | Burndown-Brüder - Team Blau
+So. 29.10.2000 | Burndown-Brüder - Frischauf Freising
+So. 05.11.2000 | Burndown-Brüder - Grillmeister vom Flaucher
+So. 12.11.2000 | Burndown-Brüder - FC Miesbach
+So. 19.11.2000 | Burndown-Brüder - Debugger Duisburg
+So. 26.11.2000 | Burndown-Brüder - Kegelklub von umme Ecke
+So. 03.12.2000 | Burndown-Brüder - Jahn München
+So. 10.12.2000 | Burndown-Brüder - JWD Freimann
+So. 17.12.2000 | Burndown-Brüder - Die Storypoints
+So. 24.12.2000 | Burndown-Brüder - Lieber Scrum als Fußball
+So. 31.12.2000 | Burndown-Brüder - Gitarrengötter Giesing
+So. 07.01.2001 | Burndown-Brüder - Flachmänner vom Flaucher
+So. 14.01.2001 | Burndown-Brüder - Isarritter
+So. 21.01.2001 | Burndown-Brüder - Microsofties Unterhaching
+So. 28.01.2001 | Burndown-Brüder - Olchinger Olme
+So. 04.02.2001 | Burndown-Brüder - Team Foobar
+So. 11.02.2001 | Burndown-Brüder - Shopping Queens PEP
+So. 18.02.2001 | Burndown-Brüder - Tischkicker Neubiberg
+So. 25.02.2001 | Burndown-Brüder - Weißblau Riem
+So. 04.03.2001 | Burndown-Brüder - Product Owner United
+So. 11.03.2001 | Burndown-Brüder - Bogenhausener Bananenflanker
+So. 18.03.2001 | Burndown-Brüder - Scrum Masters
+So. 25.03.2001 | Burndown-Brüder - Pythonistas
+So. 01.04.2001 | Burndown-Brüder - Sprinter
+So. 08.04.2001 | Burndown-Brüder - Leidgeprüfte 60er
+So. 15.04.2001 | Burndown-Brüder - Truderinger Tastenquäler
+So. 22.04.2001 | Burndown-Brüder - Hachinger Kickers
+So. 29.04.2001 | Burndown-Brüder - Eisbachsurfer
+So. 06.05.2001 | Burndown-Brüder - Rate limited Kanban
+So. 13.05.2001 | Burndown-Brüder - P.A. Sing
+So. 20.05.2001 | Burndown-Brüder - PHP-Proleten
+So. 27.05.2001 | Bleifuß BMW - Pentium-Power
+So. 03.06.2001 | Bleifuß BMW - Release-Rocker
+So. 10.06.2001 | Bleifuß BMW - Fröttmaninger Fußballfans
+So. 17.06.2001 | Bleifuß BMW - Team rot
+So. 24.06.2001 | Bleifuß BMW - Team Blau
+So. 01.07.2001 | Bleifuß BMW - Frischauf Freising
+So. 08.07.2001 | Bleifuß BMW - Grillmeister vom Flaucher
+So. 15.07.2001 | Bleifuß BMW - FC Miesbach
+So. 22.07.2001 | Bleifuß BMW - Debugger Duisburg
+So. 29.07.2001 | Bleifuß BMW - Kegelklub von umme Ecke
+So. 05.08.2001 | Bleifuß BMW - Jahn München
+So. 12.08.2001 | Bleifuß BMW - JWD Freimann
+So. 19.08.2001 | Bleifuß BMW - Die Storypoints
+So. 26.08.2001 | Bleifuß BMW - Lieber Scrum als Fußball
+So. 02.09.2001 | Bleifuß BMW - Gitarrengötter Giesing
+So. 09.09.2001 | Bleifuß BMW - Flachmänner vom Flaucher
+So. 16.09.2001 | Bleifuß BMW - Isarritter
+So. 23.09.2001 | Bleifuß BMW - Microsofties Unterhaching
+So. 30.09.2001 | Bleifuß BMW - Olchinger Olme
+So. 07.10.2001 | Bleifuß BMW - Team Foobar
+So. 14.10.2001 | Bleifuß BMW - Shopping Queens PEP
+So. 21.10.2001 | Bleifuß BMW - Tischkicker Neubiberg
+So. 28.10.2001 | Bleifuß BMW - Weißblau Riem
+So. 04.11.2001 | Bleifuß BMW - Product Owner United
+So. 11.11.2001 | Bleifuß BMW - Bogenhausener Bananenflanker
+So. 18.11.2001 | Bleifuß BMW - Scrum Masters
+So. 25.11.2001 | Bleifuß BMW - Pythonistas
+So. 02.12.2001 | Bleifuß BMW - Sprinter
+So. 09.12.2001 | Bleifuß BMW - Leidgeprüfte 60er
+So. 16.12.2001 | Bleifuß BMW - Truderinger Tastenquäler
+So. 23.12.2001 | Bleifuß BMW - Hachinger Kickers
+So. 30.12.2001 | Bleifuß BMW - Eisbachsurfer
+So. 06.01.2002 | Bleifuß BMW - Rate limited Kanban
+So. 13.01.2002 | Bleifuß BMW - P.A. Sing
+So. 20.01.2002 | Bleifuß BMW - PHP-Proleten
+So. 27.01.2002 | Pentium-Power - Release-Rocker
+So. 03.02.2002 | Pentium-Power - Fröttmaninger Fußballfans
+So. 10.02.2002 | Pentium-Power - Team rot
+So. 17.02.2002 | Pentium-Power - Team Blau
+So. 24.02.2002 | Pentium-Power - Frischauf Freising
+So. 03.03.2002 | Pentium-Power - Grillmeister vom Flaucher
+So. 10.03.2002 | Pentium-Power - FC Miesbach
+So. 17.03.2002 | Pentium-Power - Debugger Duisburg
+So. 24.03.2002 | Pentium-Power - Kegelklub von umme Ecke
+So. 31.03.2002 | Pentium-Power - Jahn München
+So. 07.04.2002 | Pentium-Power - JWD Freimann
+So. 14.04.2002 | Pentium-Power - Die Storypoints
+So. 21.04.2002 | Pentium-Power - Lieber Scrum als Fußball
+So. 28.04.2002 | Pentium-Power - Gitarrengötter Giesing
+So. 05.05.2002 | Pentium-Power - Flachmänner vom Flaucher
+So. 12.05.2002 | Pentium-Power - Isarritter
+So. 19.05.2002 | Pentium-Power - Microsofties Unterhaching
+So. 26.05.2002 | Pentium-Power - Olchinger Olme
+So. 02.06.2002 | Pentium-Power - Team Foobar
+So. 09.06.2002 | Pentium-Power - Shopping Queens PEP
+So. 16.06.2002 | Pentium-Power - Tischkicker Neubiberg
+So. 23.06.2002 | Pentium-Power - Weißblau Riem
+So. 30.06.2002 | Pentium-Power - Product Owner United
+So. 07.07.2002 | Pentium-Power - Bogenhausener Bananenflanker
+So. 14.07.2002 | Pentium-Power - Scrum Masters
+So. 21.07.2002 | Pentium-Power - Pythonistas
+So. 28.07.2002 | Pentium-Power - Sprinter
+So. 04.08.2002 | Pentium-Power - Leidgeprüfte 60er
+So. 11.08.2002 | Pentium-Power - Truderinger Tastenquäler
+So. 18.08.2002 | Pentium-Power - Hachinger Kickers
+So. 25.08.2002 | Pentium-Power - Eisbachsurfer
+So. 01.09.2002 | Pentium-Power - Rate limited Kanban
+So. 08.09.2002 | Pentium-Power - P.A. Sing
+So. 15.09.2002 | Pentium-Power - PHP-Proleten
+So. 22.09.2002 | Release-Rocker - Fröttmaninger Fußballfans
+So. 29.09.2002 | Release-Rocker - Team rot
+So. 06.10.2002 | Release-Rocker - Team Blau
+So. 13.10.2002 | Release-Rocker - Frischauf Freising
+So. 20.10.2002 | Release-Rocker - Grillmeister vom Flaucher
+So. 27.10.2002 | Release-Rocker - FC Miesbach
+So. 03.11.2002 | Release-Rocker - Debugger Duisburg
+So. 10.11.2002 | Release-Rocker - Kegelklub von umme Ecke
+So. 17.11.2002 | Release-Rocker - Jahn München
+So. 24.11.2002 | Release-Rocker - JWD Freimann
+So. 01.12.2002 | Release-Rocker - Die Storypoints
+So. 08.12.2002 | Release-Rocker - Lieber Scrum als Fußball
+So. 15.12.2002 | Release-Rocker - Gitarrengötter Giesing
+So. 22.12.2002 | Release-Rocker - Flachmänner vom Flaucher
+So. 29.12.2002 | Release-Rocker - Isarritter
+So. 05.01.2003 | Release-Rocker - Microsofties Unterhaching
+So. 12.01.2003 | Release-Rocker - Olchinger Olme
+So. 19.01.2003 | Release-Rocker - Team Foobar
+So. 26.01.2003 | Release-Rocker - Shopping Queens PEP
+So. 02.02.2003 | Release-Rocker - Tischkicker Neubiberg
+So. 09.02.2003 | Release-Rocker - Weißblau Riem
+So. 16.02.2003 | Release-Rocker - Product Owner United
+So. 23.02.2003 | Release-Rocker - Bogenhausener Bananenflanker
+So. 02.03.2003 | Release-Rocker - Scrum Masters
+So. 09.03.2003 | Release-Rocker - Pythonistas
+So. 16.03.2003 | Release-Rocker - Sprinter
+So. 23.03.2003 | Release-Rocker - Leidgeprüfte 60er
+So. 30.03.2003 | Release-Rocker - Truderinger Tastenquäler
+So. 06.04.2003 | Release-Rocker - Hachinger Kickers
+So. 13.04.2003 | Release-Rocker - Eisbachsurfer
+So. 20.04.2003 | Release-Rocker - Rate limited Kanban
+So. 27.04.2003 | Release-Rocker - P.A. Sing
+So. 04.05.2003 | Release-Rocker - PHP-Proleten
+So. 11.05.2003 | Fröttmaninger Fußballfans - Team rot
+So. 18.05.2003 | Fröttmaninger Fußballfans - Team Blau
+So. 25.05.2003 | Fröttmaninger Fußballfans - Frischauf Freising
+So. 01.06.2003 | Fröttmaninger Fußballfans - Grillmeister vom Flaucher
+So. 08.06.2003 | Fröttmaninger Fußballfans - FC Miesbach
+So. 15.06.2003 | Fröttmaninger Fußballfans - Debugger Duisburg
+So. 22.06.2003 | Fröttmaninger Fußballfans - Kegelklub von umme Ecke
+So. 29.06.2003 | Fröttmaninger Fußballfans - Jahn München
+So. 06.07.2003 | Fröttmaninger Fußballfans - JWD Freimann
+So. 13.07.2003 | Fröttmaninger Fußballfans - Die Storypoints
+So. 20.07.2003 | Fröttmaninger Fußballfans - Lieber Scrum als Fußball
+So. 27.07.2003 | Fröttmaninger Fußballfans - Gitarrengötter Giesing
+So. 03.08.2003 | Fröttmaninger Fußballfans - Flachmänner vom Flaucher
+So. 10.08.2003 | Fröttmaninger Fußballfans - Isarritter
+So. 17.08.2003 | Fröttmaninger Fußballfans - Microsofties Unterhaching
+So. 24.08.2003 | Fröttmaninger Fußballfans - Olchinger Olme
+So. 31.08.2003 | Fröttmaninger Fußballfans - Team Foobar
+So. 07.09.2003 | Fröttmaninger Fußballfans - Shopping Queens PEP
+So. 14.09.2003 | Fröttmaninger Fußballfans - Tischkicker Neubiberg
+So. 21.09.2003 | Fröttmaninger Fußballfans - Weißblau Riem
+So. 28.09.2003 | Fröttmaninger Fußballfans - Product Owner United
+So. 05.10.2003 | Fröttmaninger Fußballfans - Bogenhausener Bananenflanker
+So. 12.10.2003 | Fröttmaninger Fußballfans - Scrum Masters
+So. 19.10.2003 | Fröttmaninger Fußballfans - Pythonistas
+So. 26.10.2003 | Fröttmaninger Fußballfans - Sprinter
+So. 02.11.2003 | Fröttmaninger Fußballfans - Leidgeprüfte 60er
+So. 09.11.2003 | Fröttmaninger Fußballfans - Truderinger Tastenquäler
+So. 16.11.2003 | Fröttmaninger Fußballfans - Hachinger Kickers
+So. 23.11.2003 | Fröttmaninger Fußballfans - Eisbachsurfer
+So. 30.11.2003 | Fröttmaninger Fußballfans - Rate limited Kanban
+So. 07.12.2003 | Fröttmaninger Fußballfans - P.A. Sing
+So. 14.12.2003 | Fröttmaninger Fußballfans - PHP-Proleten
+So. 21.12.2003 | Team rot - Team Blau
+So. 28.12.2003 | Team rot - Frischauf Freising
+So. 04.01.2004 | Team rot - Grillmeister vom Flaucher
+So. 11.01.2004 | Team rot - FC Miesbach
+So. 18.01.2004 | Team rot - Debugger Duisburg
+So. 25.01.2004 | Team rot - Kegelklub von umme Ecke
+So. 01.02.2004 | Team rot - Jahn München
+So. 08.02.2004 | Team rot - JWD Freimann
+So. 15.02.2004 | Team rot - Die Storypoints
+So. 22.02.2004 | Team rot - Lieber Scrum als Fußball
+So. 29.02.2004 | Team rot - Gitarrengötter Giesing
+So. 07.03.2004 | Team rot - Flachmänner vom Flaucher
+So. 14.03.2004 | Team rot - Isarritter
+So. 21.03.2004 | Team rot - Microsofties Unterhaching
+So. 28.03.2004 | Team rot - Olchinger Olme
+So. 04.04.2004 | Team rot - Team Foobar
+So. 11.04.2004 | Team rot - Shopping Queens PEP
+So. 18.04.2004 | Team rot - Tischkicker Neubiberg
+So. 25.04.2004 | Team rot - Weißblau Riem
+So. 02.05.2004 | Team rot - Product Owner United
+So. 09.05.2004 | Team rot - Bogenhausener Bananenflanker
+So. 16.05.2004 | Team rot - Scrum Masters
+So. 23.05.2004 | Team rot - Pythonistas
+So. 30.05.2004 | Team rot - Sprinter
+So. 06.06.2004 | Team rot - Leidgeprüfte 60er
+So. 13.06.2004 | Team rot - Truderinger Tastenquäler
+So. 20.06.2004 | Team rot - Hachinger Kickers
+So. 27.06.2004 | Team rot - Eisbachsurfer
+So. 04.07.2004 | Team rot - Rate limited Kanban
+So. 11.07.2004 | Team rot - P.A. Sing
+So. 18.07.2004 | Team rot - PHP-Proleten
+So. 25.07.2004 | Team Blau - Frischauf Freising
+So. 01.08.2004 | Team Blau - Grillmeister vom Flaucher
+So. 08.08.2004 | Team Blau - FC Miesbach
+So. 15.08.2004 | Team Blau - Debugger Duisburg
+So. 22.08.2004 | Team Blau - Kegelklub von umme Ecke
+So. 29.08.2004 | Team Blau - Jahn München
+So. 05.09.2004 | Team Blau - JWD Freimann
+So. 12.09.2004 | Team Blau - Die Storypoints
+So. 19.09.2004 | Team Blau - Lieber Scrum als Fußball
+So. 26.09.2004 | Team Blau - Gitarrengötter Giesing
+So. 03.10.2004 | Team Blau - Flachmänner vom Flaucher
+So. 10.10.2004 | Team Blau - Isarritter
+So. 17.10.2004 | Team Blau - Microsofties Unterhaching
+So. 24.10.2004 | Team Blau - Olchinger Olme
+So. 31.10.2004 | Team Blau - Team Foobar
+So. 07.11.2004 | Team Blau - Shopping Queens PEP
+So. 14.11.2004 | Team Blau - Tischkicker Neubiberg
+So. 21.11.2004 | Team Blau - Weißblau Riem
+So. 28.11.2004 | Team Blau - Product Owner United
+So. 05.12.2004 | Team Blau - Bogenhausener Bananenflanker
+So. 12.12.2004 | Team Blau - Scrum Masters
+So. 19.12.2004 | Team Blau - Pythonistas
+So. 26.12.2004 | Team Blau - Sprinter
+So. 02.01.2005 | Team Blau - Leidgeprüfte 60er
+So. 09.01.2005 | Team Blau - Truderinger Tastenquäler
+So. 16.01.2005 | Team Blau - Hachinger Kickers
+So. 23.01.2005 | Team Blau - Eisbachsurfer
+So. 30.01.2005 | Team Blau - Rate limited Kanban
+So. 06.02.2005 | Team Blau - P.A. Sing
+So. 13.02.2005 | Team Blau - PHP-Proleten
+So. 20.02.2005 | Frischauf Freising - Grillmeister vom Flaucher
+So. 27.02.2005 | Frischauf Freising - FC Miesbach
+So. 06.03.2005 | Frischauf Freising - Debugger Duisburg
+So. 13.03.2005 | Frischauf Freising - Kegelklub von umme Ecke
+So. 20.03.2005 | Frischauf Freising - Jahn München
+So. 27.03.2005 | Frischauf Freising - JWD Freimann
+So. 03.04.2005 | Frischauf Freising - Die Storypoints
+So. 10.04.2005 | Frischauf Freising - Lieber Scrum als Fußball
+So. 17.04.2005 | Frischauf Freising - Gitarrengötter Giesing
+So. 24.04.2005 | Frischauf Freising - Flachmänner vom Flaucher
+So. 01.05.2005 | Frischauf Freising - Isarritter
+So. 08.05.2005 | Frischauf Freising - Microsofties Unterhaching
+So. 15.05.2005 | Frischauf Freising - Olchinger Olme
+So. 22.05.2005 | Frischauf Freising - Team Foobar
+So. 29.05.2005 | Frischauf Freising - Shopping Queens PEP
+So. 05.06.2005 | Frischauf Freising - Tischkicker Neubiberg
+So. 12.06.2005 | Frischauf Freising - Weißblau Riem
+So. 19.06.2005 | Frischauf Freising - Product Owner United
+So. 26.06.2005 | Frischauf Freising - Bogenhausener Bananenflanker
+So. 03.07.2005 | Frischauf Freising - Scrum Masters
+So. 10.07.2005 | Frischauf Freising - Pythonistas
+So. 17.07.2005 | Frischauf Freising - Sprinter
+So. 24.07.2005 | Frischauf Freising - Leidgeprüfte 60er
+So. 31.07.2005 | Frischauf Freising - Truderinger Tastenquäler
+So. 07.08.2005 | Frischauf Freising - Hachinger Kickers
+So. 14.08.2005 | Frischauf Freising - Eisbachsurfer
+So. 21.08.2005 | Frischauf Freising - Rate limited Kanban
+So. 28.08.2005 | Frischauf Freising - P.A. Sing
+So. 04.09.2005 | Frischauf Freising - PHP-Proleten
+So. 11.09.2005 | Grillmeister vom Flaucher - FC Miesbach
+So. 18.09.2005 | Grillmeister vom Flaucher - Debugger Duisburg
+So. 25.09.2005 | Grillmeister vom Flaucher - Kegelklub von umme Ecke
+So. 02.10.2005 | Grillmeister vom Flaucher - Jahn München
+So. 09.10.2005 | Grillmeister vom Flaucher - JWD Freimann
+So. 16.10.2005 | Grillmeister vom Flaucher - Die Storypoints
+So. 23.10.2005 | Grillmeister vom Flaucher - Lieber Scrum als Fußball
+So. 30.10.2005 | Grillmeister vom Flaucher - Gitarrengötter Giesing
+So. 06.11.2005 | Grillmeister vom Flaucher - Flachmänner vom Flaucher
+So. 13.11.2005 | Grillmeister vom Flaucher - Isarritter
+So. 20.11.2005 | Grillmeister vom Flaucher - Microsofties Unterhaching
+So. 27.11.2005 | Grillmeister vom Flaucher - Olchinger Olme
+So. 04.12.2005 | Grillmeister vom Flaucher - Team Foobar
+So. 11.12.2005 | Grillmeister vom Flaucher - Shopping Queens PEP
+So. 18.12.2005 | Grillmeister vom Flaucher - Tischkicker Neubiberg
+So. 25.12.2005 | Grillmeister vom Flaucher - Weißblau Riem
+So. 01.01.2006 | Grillmeister vom Flaucher - Product Owner United
+So. 08.01.2006 | Grillmeister vom Flaucher - Bogenhausener Bananenflanker
+So. 15.01.2006 | Grillmeister vom Flaucher - Scrum Masters
+So. 22.01.2006 | Grillmeister vom Flaucher - Pythonistas
+So. 29.01.2006 | Grillmeister vom Flaucher - Sprinter
+So. 05.02.2006 | Grillmeister vom Flaucher - Leidgeprüfte 60er
+So. 12.02.2006 | Grillmeister vom Flaucher - Truderinger Tastenquäler
+So. 19.02.2006 | Grillmeister vom Flaucher - Hachinger Kickers
+So. 26.02.2006 | Grillmeister vom Flaucher - Eisbachsurfer
+So. 05.03.2006 | Grillmeister vom Flaucher - Rate limited Kanban
+So. 12.03.2006 | Grillmeister vom Flaucher - P.A. Sing
+So. 19.03.2006 | Grillmeister vom Flaucher - PHP-Proleten
+So. 26.03.2006 | FC Miesbach - Debugger Duisburg
+So. 02.04.2006 | FC Miesbach - Kegelklub von umme Ecke
+So. 09.04.2006 | FC Miesbach - Jahn München
+So. 16.04.2006 | FC Miesbach - JWD Freimann
+So. 23.04.2006 | FC Miesbach - Die Storypoints
+So. 30.04.2006 | FC Miesbach - Lieber Scrum als Fußball
+So. 07.05.2006 | FC Miesbach - Gitarrengötter Giesing
+So. 14.05.2006 | FC Miesbach - Flachmänner vom Flaucher
+So. 21.05.2006 | FC Miesbach - Isarritter
+So. 28.05.2006 | FC Miesbach - Microsofties Unterhaching
+So. 04.06.2006 | FC Miesbach - Olchinger Olme
+So. 11.06.2006 | FC Miesbach - Team Foobar
+So. 18.06.2006 | FC Miesbach - Shopping Queens PEP
+So. 25.06.2006 | FC Miesbach - Tischkicker Neubiberg
+So. 02.07.2006 | FC Miesbach - Weißblau Riem
+So. 09.07.2006 | FC Miesbach - Product Owner United
+So. 16.07.2006 | FC Miesbach - Bogenhausener Bananenflanker
+So. 23.07.2006 | FC Miesbach - Scrum Masters
+So. 30.07.2006 | FC Miesbach - Pythonistas
+So. 06.08.2006 | FC Miesbach - Sprinter
+So. 13.08.2006 | FC Miesbach - Leidgeprüfte 60er
+So. 20.08.2006 | FC Miesbach - Truderinger Tastenquäler
+So. 27.08.2006 | FC Miesbach - Hachinger Kickers
+So. 03.09.2006 | FC Miesbach - Eisbachsurfer
+So. 10.09.2006 | FC Miesbach - Rate limited Kanban
+So. 17.09.2006 | FC Miesbach - P.A. Sing
+So. 24.09.2006 | FC Miesbach - PHP-Proleten
+So. 01.10.2006 | Debugger Duisburg - Kegelklub von umme Ecke
+So. 08.10.2006 | Debugger Duisburg - Jahn München
+So. 15.10.2006 | Debugger Duisburg - JWD Freimann
+So. 22.10.2006 | Debugger Duisburg - Die Storypoints
+So. 29.10.2006 | Debugger Duisburg - Lieber Scrum als Fußball
+So. 05.11.2006 | Debugger Duisburg - Gitarrengötter Giesing
+So. 12.11.2006 | Debugger Duisburg - Flachmänner vom Flaucher
+So. 19.11.2006 | Debugger Duisburg - Isarritter
+So. 26.11.2006 | Debugger Duisburg - Microsofties Unterhaching
+So. 03.12.2006 | Debugger Duisburg - Olchinger Olme
+So. 10.12.2006 | Debugger Duisburg - Team Foobar
+So. 17.12.2006 | Debugger Duisburg - Shopping Queens PEP
+So. 24.12.2006 | Debugger Duisburg - Tischkicker Neubiberg
+So. 31.12.2006 | Debugger Duisburg - Weißblau Riem
+So. 07.01.2007 | Debugger Duisburg - Product Owner United
+So. 14.01.2007 | Debugger Duisburg - Bogenhausener Bananenflanker
+So. 21.01.2007 | Debugger Duisburg - Scrum Masters
+So. 28.01.2007 | Debugger Duisburg - Pythonistas
+So. 04.02.2007 | Debugger Duisburg - Sprinter
+So. 11.02.2007 | Debugger Duisburg - Leidgeprüfte 60er
+So. 18.02.2007 | Debugger Duisburg - Truderinger Tastenquäler
+So. 25.02.2007 | Debugger Duisburg - Hachinger Kickers
+So. 04.03.2007 | Debugger Duisburg - Eisbachsurfer
+So. 11.03.2007 | Debugger Duisburg - Rate limited Kanban
+So. 18.03.2007 | Debugger Duisburg - P.A. Sing
+So. 25.03.2007 | Debugger Duisburg - PHP-Proleten
+So. 01.04.2007 | Kegelklub von umme Ecke - Jahn München
+So. 08.04.2007 | Kegelklub von umme Ecke - JWD Freimann
+So. 15.04.2007 | Kegelklub von umme Ecke - Die Storypoints
+So. 22.04.2007 | Kegelklub von umme Ecke - Lieber Scrum als Fußball
+So. 29.04.2007 | Kegelklub von umme Ecke - Gitarrengötter Giesing
+So. 06.05.2007 | Kegelklub von umme Ecke - Flachmänner vom Flaucher
+So. 13.05.2007 | Kegelklub von umme Ecke - Isarritter
+So. 20.05.2007 | Kegelklub von umme Ecke - Microsofties Unterhaching
+So. 27.05.2007 | Kegelklub von umme Ecke - Olchinger Olme
+So. 03.06.2007 | Kegelklub von umme Ecke - Team Foobar
+So. 10.06.2007 | Kegelklub von umme Ecke - Shopping Queens PEP
+So. 17.06.2007 | Kegelklub von umme Ecke - Tischkicker Neubiberg
+So. 24.06.2007 | Kegelklub von umme Ecke - Weißblau Riem
+So. 01.07.2007 | Kegelklub von umme Ecke - Product Owner United
+So. 08.07.2007 | Kegelklub von umme Ecke - Bogenhausener Bananenflanker
+So. 15.07.2007 | Kegelklub von umme Ecke - Scrum Masters
+So. 22.07.2007 | Kegelklub von umme Ecke - Pythonistas
+So. 29.07.2007 | Kegelklub von umme Ecke - Sprinter
+So. 05.08.2007 | Kegelklub von umme Ecke - Leidgeprüfte 60er
+So. 12.08.2007 | Kegelklub von umme Ecke - Truderinger Tastenquäler
+So. 19.08.2007 | Kegelklub von umme Ecke - Hachinger Kickers
+So. 26.08.2007 | Kegelklub von umme Ecke - Eisbachsurfer
+So. 02.09.2007 | Kegelklub von umme Ecke - Rate limited Kanban
+So. 09.09.2007 | Kegelklub von umme Ecke - P.A. Sing
+So. 16.09.2007 | Kegelklub von umme Ecke - PHP-Proleten
+So. 23.09.2007 | Jahn München - JWD Freimann
+So. 30.09.2007 | Jahn München - Die Storypoints
+So. 07.10.2007 | Jahn München - Lieber Scrum als Fußball
+So. 14.10.2007 | Jahn München - Gitarrengötter Giesing
+So. 21.10.2007 | Jahn München - Flachmänner vom Flaucher
+So. 28.10.2007 | Jahn München - Isarritter
+So. 04.11.2007 | Jahn München - Microsofties Unterhaching
+So. 11.11.2007 | Jahn München - Olchinger Olme
+So. 18.11.2007 | Jahn München - Team Foobar
+So. 25.11.2007 | Jahn München - Shopping Queens PEP
+So. 02.12.2007 | Jahn München - Tischkicker Neubiberg
+So. 09.12.2007 | Jahn München - Weißblau Riem
+So. 16.12.2007 | Jahn München - Product Owner United
+So. 23.12.2007 | Jahn München - Bogenhausener Bananenflanker
+So. 30.12.2007 | Jahn München - Scrum Masters
+So. 06.01.2008 | Jahn München - Pythonistas
+So. 13.01.2008 | Jahn München - Sprinter
+So. 20.01.2008 | Jahn München - Leidgeprüfte 60er
+So. 27.01.2008 | Jahn München - Truderinger Tastenquäler
+So. 03.02.2008 | Jahn München - Hachinger Kickers
+So. 10.02.2008 | Jahn München - Eisbachsurfer
+So. 17.02.2008 | Jahn München - Rate limited Kanban
+So. 24.02.2008 | Jahn München - P.A. Sing
+So. 02.03.2008 | Jahn München - PHP-Proleten
+So. 09.03.2008 | JWD Freimann - Die Storypoints
+So. 16.03.2008 | JWD Freimann - Lieber Scrum als Fußball
+So. 23.03.2008 | JWD Freimann - Gitarrengötter Giesing
+So. 30.03.2008 | JWD Freimann - Flachmänner vom Flaucher
+So. 06.04.2008 | JWD Freimann - Isarritter
+So. 13.04.2008 | JWD Freimann - Microsofties Unterhaching
+So. 20.04.2008 | JWD Freimann - Olchinger Olme
+So. 27.04.2008 | JWD Freimann - Team Foobar
+So. 04.05.2008 | JWD Freimann - Shopping Queens PEP
+So. 11.05.2008 | JWD Freimann - Tischkicker Neubiberg
+So. 18.05.2008 | JWD Freimann - Weißblau Riem
+So. 25.05.2008 | JWD Freimann - Product Owner United
+So. 01.06.2008 | JWD Freimann - Bogenhausener Bananenflanker
+So. 08.06.2008 | JWD Freimann - Scrum Masters
+So. 15.06.2008 | JWD Freimann - Pythonistas
+So. 22.06.2008 | JWD Freimann - Sprinter
+So. 29.06.2008 | JWD Freimann - Leidgeprüfte 60er
+So. 06.07.2008 | JWD Freimann - Truderinger Tastenquäler
+So. 13.07.2008 | JWD Freimann - Hachinger Kickers
+So. 20.07.2008 | JWD Freimann - Eisbachsurfer
+So. 27.07.2008 | JWD Freimann - Rate limited Kanban
+So. 03.08.2008 | JWD Freimann - P.A. Sing
+So. 10.08.2008 | JWD Freimann - PHP-Proleten
+So. 17.08.2008 | Die Storypoints - Lieber Scrum als Fußball
+So. 24.08.2008 | Die Storypoints - Gitarrengötter Giesing
+So. 31.08.2008 | Die Storypoints - Flachmänner vom Flaucher
+So. 07.09.2008 | Die Storypoints - Isarritter
+So. 14.09.2008 | Die Storypoints - Microsofties Unterhaching
+So. 21.09.2008 | Die Storypoints - Olchinger Olme
+So. 28.09.2008 | Die Storypoints - Team Foobar
+So. 05.10.2008 | Die Storypoints - Shopping Queens PEP
+So. 12.10.2008 | Die Storypoints - Tischkicker Neubiberg
+So. 19.10.2008 | Die Storypoints - Weißblau Riem
+So. 26.10.2008 | Die Storypoints - Product Owner United
+So. 02.11.2008 | Die Storypoints - Bogenhausener Bananenflanker
+So. 09.11.2008 | Die Storypoints - Scrum Masters
+So. 16.11.2008 | Die Storypoints - Pythonistas
+So. 23.11.2008 | Die Storypoints - Sprinter
+So. 30.11.2008 | Die Storypoints - Leidgeprüfte 60er
+So. 07.12.2008 | Die Storypoints - Truderinger Tastenquäler
+So. 14.12.2008 | Die Storypoints - Hachinger Kickers
+So. 21.12.2008 | Die Storypoints - Eisbachsurfer
+So. 28.12.2008 | Die Storypoints - Rate limited Kanban
+So. 04.01.2009 | Die Storypoints - P.A. Sing
+So. 11.01.2009 | Die Storypoints - PHP-Proleten
+So. 18.01.2009 | Lieber Scrum als Fußball - Gitarrengötter Giesing
+So. 25.01.2009 | Lieber Scrum als Fußball - Flachmänner vom Flaucher
+So. 01.02.2009 | Lieber Scrum als Fußball - Isarritter
+So. 08.02.2009 | Lieber Scrum als Fußball - Microsofties Unterhaching
+So. 15.02.2009 | Lieber Scrum als Fußball - Olchinger Olme
+So. 22.02.2009 | Lieber Scrum als Fußball - Team Foobar
+So. 01.03.2009 | Lieber Scrum als Fußball - Shopping Queens PEP
+So. 08.03.2009 | Lieber Scrum als Fußball - Tischkicker Neubiberg
+So. 15.03.2009 | Lieber Scrum als Fußball - Weißblau Riem
+So. 22.03.2009 | Lieber Scrum als Fußball - Product Owner United
+So. 29.03.2009 | Lieber Scrum als Fußball - Bogenhausener Bananenflanker
+So. 05.04.2009 | Lieber Scrum als Fußball - Scrum Masters
+So. 12.04.2009 | Lieber Scrum als Fußball - Pythonistas
+So. 19.04.2009 | Lieber Scrum als Fußball - Sprinter
+So. 26.04.2009 | Lieber Scrum als Fußball - Leidgeprüfte 60er
+So. 03.05.2009 | Lieber Scrum als Fußball - Truderinger Tastenquäler
+So. 10.05.2009 | Lieber Scrum als Fußball - Hachinger Kickers
+So. 17.05.2009 | Lieber Scrum als Fußball - Eisbachsurfer
+So. 24.05.2009 | Lieber Scrum als Fußball - Rate limited Kanban
+So. 31.05.2009 | Lieber Scrum als Fußball - P.A. Sing
+So. 07.06.2009 | Lieber Scrum als Fußball - PHP-Proleten
+So. 14.06.2009 | Gitarrengötter Giesing - Flachmänner vom Flaucher
+So. 21.06.2009 | Gitarrengötter Giesing - Isarritter
+So. 28.06.2009 | Gitarrengötter Giesing - Microsofties Unterhaching
+So. 05.07.2009 | Gitarrengötter Giesing - Olchinger Olme
+So. 12.07.2009 | Gitarrengötter Giesing - Team Foobar
+So. 19.07.2009 | Gitarrengötter Giesing - Shopping Queens PEP
+So. 26.07.2009 | Gitarrengötter Giesing - Tischkicker Neubiberg
+So. 02.08.2009 | Gitarrengötter Giesing - Weißblau Riem
+So. 09.08.2009 | Gitarrengötter Giesing - Product Owner United
+So. 16.08.2009 | Gitarrengötter Giesing - Bogenhausener Bananenflanker
+So. 23.08.2009 | Gitarrengötter Giesing - Scrum Masters
+So. 30.08.2009 | Gitarrengötter Giesing - Pythonistas
+So. 06.09.2009 | Gitarrengötter Giesing - Sprinter
+So. 13.09.2009 | Gitarrengötter Giesing - Leidgeprüfte 60er
+So. 20.09.2009 | Gitarrengötter Giesing - Truderinger Tastenquäler
+So. 27.09.2009 | Gitarrengötter Giesing - Hachinger Kickers
+So. 04.10.2009 | Gitarrengötter Giesing - Eisbachsurfer
+So. 11.10.2009 | Gitarrengötter Giesing - Rate limited Kanban
+So. 18.10.2009 | Gitarrengötter Giesing - P.A. Sing
+So. 25.10.2009 | Gitarrengötter Giesing - PHP-Proleten
+So. 01.11.2009 | Flachmänner vom Flaucher - Isarritter
+So. 08.11.2009 | Flachmänner vom Flaucher - Microsofties Unterhaching
+So. 15.11.2009 | Flachmänner vom Flaucher - Olchinger Olme
+So. 22.11.2009 | Flachmänner vom Flaucher - Team Foobar
+So. 29.11.2009 | Flachmänner vom Flaucher - Shopping Queens PEP
+So. 06.12.2009 | Flachmänner vom Flaucher - Tischkicker Neubiberg
+So. 13.12.2009 | Flachmänner vom Flaucher - Weißblau Riem
+So. 20.12.2009 | Flachmänner vom Flaucher - Product Owner United
+So. 27.12.2009 | Flachmänner vom Flaucher - Bogenhausener Bananenflanker
+So. 03.01.2010 | Flachmänner vom Flaucher - Scrum Masters
+So. 10.01.2010 | Flachmänner vom Flaucher - Pythonistas
+So. 17.01.2010 | Flachmänner vom Flaucher - Sprinter
+So. 24.01.2010 | Flachmänner vom Flaucher - Leidgeprüfte 60er
+So. 31.01.2010 | Flachmänner vom Flaucher - Truderinger Tastenquäler
+So. 07.02.2010 | Flachmänner vom Flaucher - Hachinger Kickers
+So. 14.02.2010 | Flachmänner vom Flaucher - Eisbachsurfer
+So. 21.02.2010 | Flachmänner vom Flaucher - Rate limited Kanban
+So. 28.02.2010 | Flachmänner vom Flaucher - P.A. Sing
+So. 07.03.2010 | Flachmänner vom Flaucher - PHP-Proleten
+So. 14.03.2010 | Isarritter - Microsofties Unterhaching
+So. 21.03.2010 | Isarritter - Olchinger Olme
+So. 28.03.2010 | Isarritter - Team Foobar
+So. 04.04.2010 | Isarritter - Shopping Queens PEP
+So. 11.04.2010 | Isarritter - Tischkicker Neubiberg
+So. 18.04.2010 | Isarritter - Weißblau Riem
+So. 25.04.2010 | Isarritter - Product Owner United
+So. 02.05.2010 | Isarritter - Bogenhausener Bananenflanker
+So. 09.05.2010 | Isarritter - Scrum Masters
+So. 16.05.2010 | Isarritter - Pythonistas
+So. 23.05.2010 | Isarritter - Sprinter
+So. 30.05.2010 | Isarritter - Leidgeprüfte 60er
+So. 06.06.2010 | Isarritter - Truderinger Tastenquäler
+So. 13.06.2010 | Isarritter - Hachinger Kickers
+So. 20.06.2010 | Isarritter - Eisbachsurfer
+So. 27.06.2010 | Isarritter - Rate limited Kanban
+So. 04.07.2010 | Isarritter - P.A. Sing
+So. 11.07.2010 | Isarritter - PHP-Proleten
+So. 18.07.2010 | Microsofties Unterhaching - Olchinger Olme
+So. 25.07.2010 | Microsofties Unterhaching - Team Foobar
+So. 01.08.2010 | Microsofties Unterhaching - Shopping Queens PEP
+So. 08.08.2010 | Microsofties Unterhaching - Tischkicker Neubiberg
+So. 15.08.2010 | Microsofties Unterhaching - Weißblau Riem
+So. 22.08.2010 | Microsofties Unterhaching - Product Owner United
+So. 29.08.2010 | Microsofties Unterhaching - Bogenhausener Bananenflanker
+So. 05.09.2010 | Microsofties Unterhaching - Scrum Masters
+So. 12.09.2010 | Microsofties Unterhaching - Pythonistas
+So. 19.09.2010 | Microsofties Unterhaching - Sprinter
+So. 26.09.2010 | Microsofties Unterhaching - Leidgeprüfte 60er
+So. 03.10.2010 | Microsofties Unterhaching - Truderinger Tastenquäler
+So. 10.10.2010 | Microsofties Unterhaching - Hachinger Kickers
+So. 17.10.2010 | Microsofties Unterhaching - Eisbachsurfer
+So. 24.10.2010 | Microsofties Unterhaching - Rate limited Kanban
+So. 31.10.2010 | Microsofties Unterhaching - P.A. Sing
+So. 07.11.2010 | Microsofties Unterhaching - PHP-Proleten
+So. 14.11.2010 | Olchinger Olme - Team Foobar
+So. 21.11.2010 | Olchinger Olme - Shopping Queens PEP
+So. 28.11.2010 | Olchinger Olme - Tischkicker Neubiberg
+So. 05.12.2010 | Olchinger Olme - Weißblau Riem
+So. 12.12.2010 | Olchinger Olme - Product Owner United
+So. 19.12.2010 | Olchinger Olme - Bogenhausener Bananenflanker
+So. 26.12.2010 | Olchinger Olme - Scrum Masters
+So. 02.01.2011 | Olchinger Olme - Pythonistas
+So. 09.01.2011 | Olchinger Olme - Sprinter
+So. 16.01.2011 | Olchinger Olme - Leidgeprüfte 60er
+So. 23.01.2011 | Olchinger Olme - Truderinger Tastenquäler
+So. 30.01.2011 | Olchinger Olme - Hachinger Kickers
+So. 06.02.2011 | Olchinger Olme - Eisbachsurfer
+So. 13.02.2011 | Olchinger Olme - Rate limited Kanban
+So. 20.02.2011 | Olchinger Olme - P.A. Sing
+So. 27.02.2011 | Olchinger Olme - PHP-Proleten
+So. 06.03.2011 | Team Foobar - Shopping Queens PEP
+So. 13.03.2011 | Team Foobar - Tischkicker Neubiberg
+So. 20.03.2011 | Team Foobar - Weißblau Riem
+So. 27.03.2011 | Team Foobar - Product Owner United
+So. 03.04.2011 | Team Foobar - Bogenhausener Bananenflanker
+So. 10.04.2011 | Team Foobar - Scrum Masters
+So. 17.04.2011 | Team Foobar - Pythonistas
+So. 24.04.2011 | Team Foobar - Sprinter
+So. 01.05.2011 | Team Foobar - Leidgeprüfte 60er
+So. 08.05.2011 | Team Foobar - Truderinger Tastenquäler
+So. 15.05.2011 | Team Foobar - Hachinger Kickers
+So. 22.05.2011 | Team Foobar - Eisbachsurfer
+So. 29.05.2011 | Team Foobar - Rate limited Kanban
+So. 05.06.2011 | Team Foobar - P.A. Sing
+So. 12.06.2011 | Team Foobar - PHP-Proleten
+So. 19.06.2011 | Shopping Queens PEP - Tischkicker Neubiberg
+So. 26.06.2011 | Shopping Queens PEP - Weißblau Riem
+So. 03.07.2011 | Shopping Queens PEP - Product Owner United
+So. 10.07.2011 | Shopping Queens PEP - Bogenhausener Bananenflanker
+So. 17.07.2011 | Shopping Queens PEP - Scrum Masters
+So. 24.07.2011 | Shopping Queens PEP - Pythonistas
+So. 31.07.2011 | Shopping Queens PEP - Sprinter
+So. 07.08.2011 | Shopping Queens PEP - Leidgeprüfte 60er
+So. 14.08.2011 | Shopping Queens PEP - Truderinger Tastenquäler
+So. 21.08.2011 | Shopping Queens PEP - Hachinger Kickers
+So. 28.08.2011 | Shopping Queens PEP - Eisbachsurfer
+So. 04.09.2011 | Shopping Queens PEP - Rate limited Kanban
+So. 11.09.2011 | Shopping Queens PEP - P.A. Sing
+So. 18.09.2011 | Shopping Queens PEP - PHP-Proleten
+So. 25.09.2011 | Tischkicker Neubiberg - Weißblau Riem
+So. 02.10.2011 | Tischkicker Neubiberg - Product Owner United
+So. 09.10.2011 | Tischkicker Neubiberg - Bogenhausener Bananenflanker
+So. 16.10.2011 | Tischkicker Neubiberg - Scrum Masters
+So. 23.10.2011 | Tischkicker Neubiberg - Pythonistas
+So. 30.10.2011 | Tischkicker Neubiberg - Sprinter
+So. 06.11.2011 | Tischkicker Neubiberg - Leidgeprüfte 60er
+So. 13.11.2011 | Tischkicker Neubiberg - Truderinger Tastenquäler
+So. 20.11.2011 | Tischkicker Neubiberg - Hachinger Kickers
+So. 27.11.2011 | Tischkicker Neubiberg - Eisbachsurfer
+So. 04.12.2011 | Tischkicker Neubiberg - Rate limited Kanban
+So. 11.12.2011 | Tischkicker Neubiberg - P.A. Sing
+So. 18.12.2011 | Tischkicker Neubiberg - PHP-Proleten
+So. 25.12.2011 | Weißblau Riem - Product Owner United
+So. 01.01.2012 | Weißblau Riem - Bogenhausener Bananenflanker
+So. 08.01.2012 | Weißblau Riem - Scrum Masters
+So. 15.01.2012 | Weißblau Riem - Pythonistas
+So. 22.01.2012 | Weißblau Riem - Sprinter
+So. 29.01.2012 | Weißblau Riem - Leidgeprüfte 60er
+So. 05.02.2012 | Weißblau Riem - Truderinger Tastenquäler
+So. 12.02.2012 | Weißblau Riem - Hachinger Kickers
+So. 19.02.2012 | Weißblau Riem - Eisbachsurfer
+So. 26.02.2012 | Weißblau Riem - Rate limited Kanban
+So. 04.03.2012 | Weißblau Riem - P.A. Sing
+So. 11.03.2012 | Weißblau Riem - PHP-Proleten
+So. 18.03.2012 | Product Owner United - Bogenhausener Bananenflanker
+So. 25.03.2012 | Product Owner United - Scrum Masters
+So. 01.04.2012 | Product Owner United - Pythonistas
+So. 08.04.2012 | Product Owner United - Sprinter
+So. 15.04.2012 | Product Owner United - Leidgeprüfte 60er
+So. 22.04.2012 | Product Owner United - Truderinger Tastenquäler
+So. 29.04.2012 | Product Owner United - Hachinger Kickers
+So. 06.05.2012 | Product Owner United - Eisbachsurfer
+So. 13.05.2012 | Product Owner United - Rate limited Kanban
+So. 20.05.2012 | Product Owner United - P.A. Sing
+So. 27.05.2012 | Product Owner United - PHP-Proleten
+So. 03.06.2012 | Bogenhausener Bananenflanker - Scrum Masters
+So. 10.06.2012 | Bogenhausener Bananenflanker - Pythonistas
+So. 17.06.2012 | Bogenhausener Bananenflanker - Sprinter
+So. 24.06.2012 | Bogenhausener Bananenflanker - Leidgeprüfte 60er
+So. 01.07.2012 | Bogenhausener Bananenflanker - Truderinger Tastenquäler
+So. 08.07.2012 | Bogenhausener Bananenflanker - Hachinger Kickers
+So. 15.07.2012 | Bogenhausener Bananenflanker - Eisbachsurfer
+So. 22.07.2012 | Bogenhausener Bananenflanker - Rate limited Kanban
+So. 29.07.2012 | Bogenhausener Bananenflanker - P.A. Sing
+So. 05.08.2012 | Bogenhausener Bananenflanker - PHP-Proleten
+So. 12.08.2012 | Scrum Masters - Pythonistas
+So. 19.08.2012 | Scrum Masters - Sprinter
+So. 26.08.2012 | Scrum Masters - Leidgeprüfte 60er
+So. 02.09.2012 | Scrum Masters - Truderinger Tastenquäler
+So. 09.09.2012 | Scrum Masters - Hachinger Kickers
+So. 16.09.2012 | Scrum Masters - Eisbachsurfer
+So. 23.09.2012 | Scrum Masters - Rate limited Kanban
+So. 30.09.2012 | Scrum Masters - P.A. Sing
+So. 07.10.2012 | Scrum Masters - PHP-Proleten
+So. 14.10.2012 | Pythonistas - Sprinter
+So. 21.10.2012 | Pythonistas - Leidgeprüfte 60er
+So. 28.10.2012 | Pythonistas - Truderinger Tastenquäler
+So. 04.11.2012 | Pythonistas - Hachinger Kickers
+So. 11.11.2012 | Pythonistas - Eisbachsurfer
+So. 18.11.2012 | Pythonistas - Rate limited Kanban
+So. 25.11.2012 | Pythonistas - P.A. Sing
+So. 02.12.2012 | Pythonistas - PHP-Proleten
+So. 09.12.2012 | Sprinter - Leidgeprüfte 60er
+So. 16.12.2012 | Sprinter - Truderinger Tastenquäler
+So. 23.12.2012 | Sprinter - Hachinger Kickers
+So. 30.12.2012 | Sprinter - Eisbachsurfer
+So. 06.01.2013 | Sprinter - Rate limited Kanban
+So. 13.01.2013 | Sprinter - P.A. Sing
+So. 20.01.2013 | Sprinter - PHP-Proleten
+So. 27.01.2013 | Leidgeprüfte 60er - Truderinger Tastenquäler
+So. 03.02.2013 | Leidgeprüfte 60er - Hachinger Kickers
+So. 10.02.2013 | Leidgeprüfte 60er - Eisbachsurfer
+So. 17.02.2013 | Leidgeprüfte 60er - Rate limited Kanban
+So. 24.02.2013 | Leidgeprüfte 60er - P.A. Sing
+So. 03.03.2013 | Leidgeprüfte 60er - PHP-Proleten
+So. 10.03.2013 | Truderinger Tastenquäler - Hachinger Kickers
+So. 17.03.2013 | Truderinger Tastenquäler - Eisbachsurfer
+So. 24.03.2013 | Truderinger Tastenquäler - Rate limited Kanban
+So. 31.03.2013 | Truderinger Tastenquäler - P.A. Sing
+So. 07.04.2013 | Truderinger Tastenquäler - PHP-Proleten
+So. 14.04.2013 | Hachinger Kickers - Eisbachsurfer
+So. 21.04.2013 | Hachinger Kickers - Rate limited Kanban
+So. 28.04.2013 | Hachinger Kickers - P.A. Sing
+So. 05.05.2013 | Hachinger Kickers - PHP-Proleten
+So. 12.05.2013 | Eisbachsurfer - Rate limited Kanban
+So. 19.05.2013 | Eisbachsurfer - P.A. Sing
+So. 26.05.2013 | Eisbachsurfer - PHP-Proleten
+So. 02.06.2013 | Rate limited Kanban - P.A. Sing
+So. 09.06.2013 | Rate limited Kanban - PHP-Proleten
+So. 16.06.2013 | P.A. Sing - PHP-Proleten
+So. 23.06.2013 | Burndown-Brüder - Latte Macchiato Mütter Haidhausen
+So. 30.06.2013 | Bleifuß BMW - Latte Macchiato Mütter Haidhausen
+So. 07.07.2013 | Pentium-Power - Latte Macchiato Mütter Haidhausen
+So. 14.07.2013 | Release-Rocker - Latte Macchiato Mütter Haidhausen
+So. 21.07.2013 | Fröttmaninger Fußballfans - Latte Macchiato Mütter Haidhausen
+So. 28.07.2013 | Team rot - Latte Macchiato Mütter Haidhausen
+So. 04.08.2013 | Team Blau - Latte Macchiato Mütter Haidhausen
+So. 11.08.2013 | Frischauf Freising - Latte Macchiato Mütter Haidhausen
+So. 18.08.2013 | Grillmeister vom Flaucher - Latte Macchiato Mütter Haidhausen
+So. 25.08.2013 | FC Miesbach - Latte Macchiato Mütter Haidhausen
+So. 01.09.2013 | Debugger Duisburg - Latte Macchiato Mütter Haidhausen
+So. 08.09.2013 | Kegelklub von umme Ecke - Latte Macchiato Mütter Haidhausen
+So. 15.09.2013 | Jahn München - Latte Macchiato Mütter Haidhausen
+So. 22.09.2013 | JWD Freimann - Latte Macchiato Mütter Haidhausen
+So. 29.09.2013 | Die Storypoints - Latte Macchiato Mütter Haidhausen
+So. 06.10.2013 | Lieber Scrum als Fußball - Latte Macchiato Mütter Haidhausen
+So. 13.10.2013 | Gitarrengötter Giesing - Latte Macchiato Mütter Haidhausen
+So. 20.10.2013 | Flachmänner vom Flaucher - Latte Macchiato Mütter Haidhausen
+So. 27.10.2013 | Isarritter - Latte Macchiato Mütter Haidhausen
+So. 03.11.2013 | Microsofties Unterhaching - Latte Macchiato Mütter Haidhausen
+So. 10.11.2013 | Olchinger Olme - Latte Macchiato Mütter Haidhausen
+So. 17.11.2013 | Team Foobar - Latte Macchiato Mütter Haidhausen
+So. 24.11.2013 | Shopping Queens PEP - Latte Macchiato Mütter Haidhausen
+So. 01.12.2013 | Tischkicker Neubiberg - Latte Macchiato Mütter Haidhausen
+So. 08.12.2013 | Weißblau Riem - Latte Macchiato Mütter Haidhausen
+So. 15.12.2013 | Product Owner United - Latte Macchiato Mütter Haidhausen
+So. 22.12.2013 | Bogenhausener Bananenflanker - Latte Macchiato Mütter Haidhausen
+So. 29.12.2013 | Scrum Masters - Latte Macchiato Mütter Haidhausen
+So. 05.01.2014 | Pythonistas - Latte Macchiato Mütter Haidhausen
+So. 12.01.2014 | Sprinter - Latte Macchiato Mütter Haidhausen
+So. 19.01.2014 | Leidgeprüfte 60er - Latte Macchiato Mütter Haidhausen
+So. 26.01.2014 | Truderinger Tastenquäler - Latte Macchiato Mütter Haidhausen
+So. 02.02.2014 | Hachinger Kickers - Latte Macchiato Mütter Haidhausen
+So. 09.02.2014 | Eisbachsurfer - Latte Macchiato Mütter Haidhausen
+So. 16.02.2014 | Rate limited Kanban - Latte Macchiato Mütter Haidhausen
+So. 23.02.2014 | P.A. Sing - Latte Macchiato Mütter Haidhausen
+So. 02.03.2014 | PHP-Proleten - Latte Macchiato Mütter Haidhausen
+So. 09.03.2014 | Bleifuß BMW - Burndown-Brüder
+So. 16.03.2014 | Pentium-Power - Burndown-Brüder
+So. 23.03.2014 | Release-Rocker - Burndown-Brüder
+So. 30.03.2014 | Fröttmaninger Fußballfans - Burndown-Brüder
+So. 06.04.2014 | Team rot - Burndown-Brüder
+So. 13.04.2014 | Team Blau - Burndown-Brüder
+So. 20.04.2014 | Frischauf Freising - Burndown-Brüder
+So. 27.04.2014 | Grillmeister vom Flaucher - Burndown-Brüder
+So. 04.05.2014 | FC Miesbach - Burndown-Brüder
+So. 11.05.2014 | Debugger Duisburg - Burndown-Brüder
+So. 18.05.2014 | Kegelklub von umme Ecke - Burndown-Brüder
+So. 25.05.2014 | Jahn München - Burndown-Brüder
+So. 01.06.2014 | JWD Freimann - Burndown-Brüder
+So. 08.06.2014 | Die Storypoints - Burndown-Brüder
+So. 15.06.2014 | Lieber Scrum als Fußball - Burndown-Brüder
+So. 22.06.2014 | Gitarrengötter Giesing - Burndown-Brüder
+So. 29.06.2014 | Flachmänner vom Flaucher - Burndown-Brüder
+So. 06.07.2014 | Isarritter - Burndown-Brüder
+So. 13.07.2014 | Microsofties Unterhaching - Burndown-Brüder
+So. 20.07.2014 | Olchinger Olme - Burndown-Brüder
+So. 27.07.2014 | Team Foobar - Burndown-Brüder
+So. 03.08.2014 | Shopping Queens PEP - Burndown-Brüder
+So. 10.08.2014 | Tischkicker Neubiberg - Burndown-Brüder
+So. 17.08.2014 | Weißblau Riem - Burndown-Brüder
+So. 24.08.2014 | Product Owner United - Burndown-Brüder
+So. 31.08.2014 | Bogenhausener Bananenflanker - Burndown-Brüder
+So. 07.09.2014 | Scrum Masters - Burndown-Brüder
+So. 14.09.2014 | Pythonistas - Burndown-Brüder
+So. 21.09.2014 | Sprinter - Burndown-Brüder
+So. 28.09.2014 | Leidgeprüfte 60er - Burndown-Brüder
+So. 05.10.2014 | Truderinger Tastenquäler - Burndown-Brüder
+So. 12.10.2014 | Hachinger Kickers - Burndown-Brüder
+So. 19.10.2014 | Eisbachsurfer - Burndown-Brüder
+So. 26.10.2014 | Rate limited Kanban - Burndown-Brüder
+So. 02.11.2014 | P.A. Sing - Burndown-Brüder
+So. 09.11.2014 | PHP-Proleten - Burndown-Brüder
+So. 16.11.2014 | Pentium-Power - Bleifuß BMW
+So. 23.11.2014 | Release-Rocker - Bleifuß BMW
+So. 30.11.2014 | Fröttmaninger Fußballfans - Bleifuß BMW
+So. 07.12.2014 | Team rot - Bleifuß BMW
+So. 14.12.2014 | Team Blau - Bleifuß BMW
+So. 21.12.2014 | Frischauf Freising - Bleifuß BMW
+So. 28.12.2014 | Grillmeister vom Flaucher - Bleifuß BMW
+So. 04.01.2015 | FC Miesbach - Bleifuß BMW
+So. 11.01.2015 | Debugger Duisburg - Bleifuß BMW
+So. 18.01.2015 | Kegelklub von umme Ecke - Bleifuß BMW
+So. 25.01.2015 | Jahn München - Bleifuß BMW
+So. 01.02.2015 | JWD Freimann - Bleifuß BMW
+So. 08.02.2015 | Die Storypoints - Bleifuß BMW
+So. 15.02.2015 | Lieber Scrum als Fußball - Bleifuß BMW
+So. 22.02.2015 | Gitarrengötter Giesing - Bleifuß BMW
+So. 01.03.2015 | Flachmänner vom Flaucher - Bleifuß BMW
+So. 08.03.2015 | Isarritter - Bleifuß BMW
+So. 15.03.2015 | Microsofties Unterhaching - Bleifuß BMW
+So. 22.03.2015 | Olchinger Olme - Bleifuß BMW
+So. 29.03.2015 | Team Foobar - Bleifuß BMW
+So. 05.04.2015 | Shopping Queens PEP - Bleifuß BMW
+So. 12.04.2015 | Tischkicker Neubiberg - Bleifuß BMW
+So. 19.04.2015 | Weißblau Riem - Bleifuß BMW
+So. 26.04.2015 | Product Owner United - Bleifuß BMW
+So. 03.05.2015 | Bogenhausener Bananenflanker - Bleifuß BMW
+So. 10.05.2015 | Scrum Masters - Bleifuß BMW
+So. 17.05.2015 | Pythonistas - Bleifuß BMW
+So. 24.05.2015 | Sprinter - Bleifuß BMW
+So. 31.05.2015 | Leidgeprüfte 60er - Bleifuß BMW
+So. 07.06.2015 | Truderinger Tastenquäler - Bleifuß BMW
+So. 14.06.2015 | Hachinger Kickers - Bleifuß BMW
+So. 21.06.2015 | Eisbachsurfer - Bleifuß BMW
+So. 28.06.2015 | Rate limited Kanban - Bleifuß BMW
+So. 05.07.2015 | P.A. Sing - Bleifuß BMW
+So. 12.07.2015 | PHP-Proleten - Bleifuß BMW
+So. 19.07.2015 | Release-Rocker - Pentium-Power
+So. 26.07.2015 | Fröttmaninger Fußballfans - Pentium-Power
+So. 02.08.2015 | Team rot - Pentium-Power
+So. 09.08.2015 | Team Blau - Pentium-Power
+So. 16.08.2015 | Frischauf Freising - Pentium-Power
+So. 23.08.2015 | Grillmeister vom Flaucher - Pentium-Power
+So. 30.08.2015 | FC Miesbach - Pentium-Power
+So. 06.09.2015 | Debugger Duisburg - Pentium-Power
+So. 13.09.2015 | Kegelklub von umme Ecke - Pentium-Power
+So. 20.09.2015 | Jahn München - Pentium-Power
+So. 27.09.2015 | JWD Freimann - Pentium-Power
+So. 04.10.2015 | Die Storypoints - Pentium-Power
+So. 11.10.2015 | Lieber Scrum als Fußball - Pentium-Power
+So. 18.10.2015 | Gitarrengötter Giesing - Pentium-Power
+So. 25.10.2015 | Flachmänner vom Flaucher - Pentium-Power
+So. 01.11.2015 | Isarritter - Pentium-Power
+So. 08.11.2015 | Microsofties Unterhaching - Pentium-Power
+So. 15.11.2015 | Olchinger Olme - Pentium-Power
+So. 22.11.2015 | Team Foobar - Pentium-Power
+So. 29.11.2015 | Shopping Queens PEP - Pentium-Power
+So. 06.12.2015 | Tischkicker Neubiberg - Pentium-Power
+So. 13.12.2015 | Weißblau Riem - Pentium-Power
+So. 20.12.2015 | Product Owner United - Pentium-Power
+So. 27.12.2015 | Bogenhausener Bananenflanker - Pentium-Power
+So. 03.01.2016 | Scrum Masters - Pentium-Power
+So. 10.01.2016 | Pythonistas - Pentium-Power
+So. 17.01.2016 | Sprinter - Pentium-Power
+So. 24.01.2016 | Leidgeprüfte 60er - Pentium-Power
+So. 31.01.2016 | Truderinger Tastenquäler - Pentium-Power
+So. 07.02.2016 | Hachinger Kickers - Pentium-Power
+So. 14.02.2016 | Eisbachsurfer - Pentium-Power
+So. 21.02.2016 | Rate limited Kanban - Pentium-Power
+So. 28.02.2016 | P.A. Sing - Pentium-Power
+So. 06.03.2016 | PHP-Proleten - Pentium-Power
+So. 13.03.2016 | Fröttmaninger Fußballfans - Release-Rocker
+So. 20.03.2016 | Team rot - Release-Rocker
+So. 27.03.2016 | Team Blau - Release-Rocker
+So. 03.04.2016 | Frischauf Freising - Release-Rocker
+So. 10.04.2016 | Grillmeister vom Flaucher - Release-Rocker
+So. 17.04.2016 | FC Miesbach - Release-Rocker
+So. 24.04.2016 | Debugger Duisburg - Release-Rocker
+So. 01.05.2016 | Kegelklub von umme Ecke - Release-Rocker
+So. 08.05.2016 | Jahn München - Release-Rocker
+So. 15.05.2016 | JWD Freimann - Release-Rocker
+So. 22.05.2016 | Die Storypoints - Release-Rocker
+So. 29.05.2016 | Lieber Scrum als Fußball - Release-Rocker
+So. 05.06.2016 | Gitarrengötter Giesing - Release-Rocker
+So. 12.06.2016 | Flachmänner vom Flaucher - Release-Rocker
+So. 19.06.2016 | Isarritter - Release-Rocker
+So. 26.06.2016 | Microsofties Unterhaching - Release-Rocker
+So. 03.07.2016 | Olchinger Olme - Release-Rocker
+So. 10.07.2016 | Team Foobar - Release-Rocker
+So. 17.07.2016 | Shopping Queens PEP - Release-Rocker
+So. 24.07.2016 | Tischkicker Neubiberg - Release-Rocker
+So. 31.07.2016 | Weißblau Riem - Release-Rocker
+So. 07.08.2016 | Product Owner United - Release-Rocker
+So. 14.08.2016 | Bogenhausener Bananenflanker - Release-Rocker
+So. 21.08.2016 | Scrum Masters - Release-Rocker
+So. 28.08.2016 | Pythonistas - Release-Rocker
+So. 04.09.2016 | Sprinter - Release-Rocker
+So. 11.09.2016 | Leidgeprüfte 60er - Release-Rocker
+So. 18.09.2016 | Truderinger Tastenquäler - Release-Rocker
+So. 25.09.2016 | Hachinger Kickers - Release-Rocker
+So. 02.10.2016 | Eisbachsurfer - Release-Rocker
+So. 09.10.2016 | Rate limited Kanban - Release-Rocker
+So. 16.10.2016 | P.A. Sing - Release-Rocker
+So. 23.10.2016 | PHP-Proleten - Release-Rocker
+So. 30.10.2016 | Team rot - Fröttmaninger Fußballfans
+So. 06.11.2016 | Team Blau - Fröttmaninger Fußballfans
+So. 13.11.2016 | Frischauf Freising - Fröttmaninger Fußballfans
+So. 20.11.2016 | Grillmeister vom Flaucher - Fröttmaninger Fußballfans
+So. 27.11.2016 | FC Miesbach - Fröttmaninger Fußballfans
+So. 04.12.2016 | Debugger Duisburg - Fröttmaninger Fußballfans
+So. 11.12.2016 | Kegelklub von umme Ecke - Fröttmaninger Fußballfans
+So. 18.12.2016 | Jahn München - Fröttmaninger Fußballfans
+So. 25.12.2016 | JWD Freimann - Fröttmaninger Fußballfans
+So. 01.01.2017 | Die Storypoints - Fröttmaninger Fußballfans
+So. 08.01.2017 | Lieber Scrum als Fußball - Fröttmaninger Fußballfans
+So. 15.01.2017 | Gitarrengötter Giesing - Fröttmaninger Fußballfans
+So. 22.01.2017 | Flachmänner vom Flaucher - Fröttmaninger Fußballfans
+So. 29.01.2017 | Isarritter - Fröttmaninger Fußballfans
+So. 05.02.2017 | Microsofties Unterhaching - Fröttmaninger Fußballfans
+So. 12.02.2017 | Olchinger Olme - Fröttmaninger Fußballfans
+So. 19.02.2017 | Team Foobar - Fröttmaninger Fußballfans
+So. 26.02.2017 | Shopping Queens PEP - Fröttmaninger Fußballfans
+So. 05.03.2017 | Tischkicker Neubiberg - Fröttmaninger Fußballfans
+So. 12.03.2017 | Weißblau Riem - Fröttmaninger Fußballfans
+So. 19.03.2017 | Product Owner United - Fröttmaninger Fußballfans
+So. 26.03.2017 | Bogenhausener Bananenflanker - Fröttmaninger Fußballfans
+So. 02.04.2017 | Scrum Masters - Fröttmaninger Fußballfans
+So. 09.04.2017 | Pythonistas - Fröttmaninger Fußballfans
+So. 16.04.2017 | Sprinter - Fröttmaninger Fußballfans
+So. 23.04.2017 | Leidgeprüfte 60er - Fröttmaninger Fußballfans
+So. 30.04.2017 | Truderinger Tastenquäler - Fröttmaninger Fußballfans
+So. 07.05.2017 | Hachinger Kickers - Fröttmaninger Fußballfans
+So. 14.05.2017 | Eisbachsurfer - Fröttmaninger Fußballfans
+So. 21.05.2017 | Rate limited Kanban - Fröttmaninger Fußballfans
+So. 28.05.2017 | P.A. Sing - Fröttmaninger Fußballfans
+So. 04.06.2017 | PHP-Proleten - Fröttmaninger Fußballfans
+So. 11.06.2017 | Team Blau - Team rot
+So. 18.06.2017 | Frischauf Freising - Team rot
+So. 25.06.2017 | Grillmeister vom Flaucher - Team rot
+So. 02.07.2017 | FC Miesbach - Team rot
+So. 09.07.2017 | Debugger Duisburg - Team rot
+So. 16.07.2017 | Kegelklub von umme Ecke - Team rot
+So. 23.07.2017 | Jahn München - Team rot
+So. 30.07.2017 | JWD Freimann - Team rot
+So. 06.08.2017 | Die Storypoints - Team rot
+So. 13.08.2017 | Lieber Scrum als Fußball - Team rot
+So. 20.08.2017 | Gitarrengötter Giesing - Team rot
+So. 27.08.2017 | Flachmänner vom Flaucher - Team rot
+So. 03.09.2017 | Isarritter - Team rot
+So. 10.09.2017 | Microsofties Unterhaching - Team rot
+So. 17.09.2017 | Olchinger Olme - Team rot
+So. 24.09.2017 | Team Foobar - Team rot
+So. 01.10.2017 | Shopping Queens PEP - Team rot
+So. 08.10.2017 | Tischkicker Neubiberg - Team rot
+So. 15.10.2017 | Weißblau Riem - Team rot
+So. 22.10.2017 | Product Owner United - Team rot
+So. 29.10.2017 | Bogenhausener Bananenflanker - Team rot
+So. 05.11.2017 | Scrum Masters - Team rot
+So. 12.11.2017 | Pythonistas - Team rot
+So. 19.11.2017 | Sprinter - Team rot
+So. 26.11.2017 | Leidgeprüfte 60er - Team rot
+So. 03.12.2017 | Truderinger Tastenquäler - Team rot
+So. 10.12.2017 | Hachinger Kickers - Team rot
+So. 17.12.2017 | Eisbachsurfer - Team rot
+So. 24.12.2017 | Rate limited Kanban - Team rot
+So. 31.12.2017 | P.A. Sing - Team rot
+So. 07.01.2018 | PHP-Proleten - Team rot
+So. 14.01.2018 | Frischauf Freising - Team Blau
+So. 21.01.2018 | Grillmeister vom Flaucher - Team Blau
+So. 28.01.2018 | FC Miesbach - Team Blau
+So. 04.02.2018 | Debugger Duisburg - Team Blau
+So. 11.02.2018 | Kegelklub von umme Ecke - Team Blau
+So. 18.02.2018 | Jahn München - Team Blau
+So. 25.02.2018 | JWD Freimann - Team Blau
+So. 04.03.2018 | Die Storypoints - Team Blau
+So. 11.03.2018 | Lieber Scrum als Fußball - Team Blau
+So. 18.03.2018 | Gitarrengötter Giesing - Team Blau
+So. 25.03.2018 | Flachmänner vom Flaucher - Team Blau
+So. 01.04.2018 | Isarritter - Team Blau
+So. 08.04.2018 | Microsofties Unterhaching - Team Blau
+So. 15.04.2018 | Olchinger Olme - Team Blau
+So. 22.04.2018 | Team Foobar - Team Blau
+So. 29.04.2018 | Shopping Queens PEP - Team Blau
+So. 06.05.2018 | Tischkicker Neubiberg - Team Blau
+So. 13.05.2018 | Weißblau Riem - Team Blau
+So. 20.05.2018 | Product Owner United - Team Blau
+So. 27.05.2018 | Bogenhausener Bananenflanker - Team Blau
+So. 03.06.2018 | Scrum Masters - Team Blau
+So. 10.06.2018 | Pythonistas - Team Blau
+So. 17.06.2018 | Sprinter - Team Blau
+So. 24.06.2018 | Leidgeprüfte 60er - Team Blau
+So. 01.07.2018 | Truderinger Tastenquäler - Team Blau
+So. 08.07.2018 | Hachinger Kickers - Team Blau
+So. 15.07.2018 | Eisbachsurfer - Team Blau
+So. 22.07.2018 | Rate limited Kanban - Team Blau
+So. 29.07.2018 | P.A. Sing - Team Blau
+So. 05.08.2018 | PHP-Proleten - Team Blau
+So. 12.08.2018 | Grillmeister vom Flaucher - Frischauf Freising
+So. 19.08.2018 | FC Miesbach - Frischauf Freising
+So. 26.08.2018 | Debugger Duisburg - Frischauf Freising
+So. 02.09.2018 | Kegelklub von umme Ecke - Frischauf Freising
+So. 09.09.2018 | Jahn München - Frischauf Freising
+So. 16.09.2018 | JWD Freimann - Frischauf Freising
+So. 23.09.2018 | Die Storypoints - Frischauf Freising
+So. 30.09.2018 | Lieber Scrum als Fußball - Frischauf Freising
+So. 07.10.2018 | Gitarrengötter Giesing - Frischauf Freising
+So. 14.10.2018 | Flachmänner vom Flaucher - Frischauf Freising
+So. 21.10.2018 | Isarritter - Frischauf Freising
+So. 28.10.2018 | Microsofties Unterhaching - Frischauf Freising
+So. 04.11.2018 | Olchinger Olme - Frischauf Freising
+So. 11.11.2018 | Team Foobar - Frischauf Freising
+So. 18.11.2018 | Shopping Queens PEP - Frischauf Freising
+So. 25.11.2018 | Tischkicker Neubiberg - Frischauf Freising
+So. 02.12.2018 | Weißblau Riem - Frischauf Freising
+So. 09.12.2018 | Product Owner United - Frischauf Freising
+So. 16.12.2018 | Bogenhausener Bananenflanker - Frischauf Freising
+So. 23.12.2018 | Scrum Masters - Frischauf Freising
+So. 30.12.2018 | Pythonistas - Frischauf Freising
+So. 06.01.2019 | Sprinter - Frischauf Freising
+So. 13.01.2019 | Leidgeprüfte 60er - Frischauf Freising
+So. 20.01.2019 | Truderinger Tastenquäler - Frischauf Freising
+So. 27.01.2019 | Hachinger Kickers - Frischauf Freising
+So. 03.02.2019 | Eisbachsurfer - Frischauf Freising
+So. 10.02.2019 | Rate limited Kanban - Frischauf Freising
+So. 17.02.2019 | P.A. Sing - Frischauf Freising
+So. 24.02.2019 | PHP-Proleten - Frischauf Freising
+So. 03.03.2019 | FC Miesbach - Grillmeister vom Flaucher
+So. 10.03.2019 | Debugger Duisburg - Grillmeister vom Flaucher
+So. 17.03.2019 | Kegelklub von umme Ecke - Grillmeister vom Flaucher
+So. 24.03.2019 | Jahn München - Grillmeister vom Flaucher
+So. 31.03.2019 | JWD Freimann - Grillmeister vom Flaucher
+So. 07.04.2019 | Die Storypoints - Grillmeister vom Flaucher
+So. 14.04.2019 | Lieber Scrum als Fußball - Grillmeister vom Flaucher
+So. 21.04.2019 | Gitarrengötter Giesing - Grillmeister vom Flaucher
+So. 28.04.2019 | Flachmänner vom Flaucher - Grillmeister vom Flaucher
+So. 05.05.2019 | Isarritter - Grillmeister vom Flaucher
+So. 12.05.2019 | Microsofties Unterhaching - Grillmeister vom Flaucher
+So. 19.05.2019 | Olchinger Olme - Grillmeister vom Flaucher
+So. 26.05.2019 | Team Foobar - Grillmeister vom Flaucher
+So. 02.06.2019 | Shopping Queens PEP - Grillmeister vom Flaucher
+So. 09.06.2019 | Tischkicker Neubiberg - Grillmeister vom Flaucher
+So. 16.06.2019 | Weißblau Riem - Grillmeister vom Flaucher
+So. 23.06.2019 | Product Owner United - Grillmeister vom Flaucher
+So. 30.06.2019 | Bogenhausener Bananenflanker - Grillmeister vom Flaucher
+So. 07.07.2019 | Scrum Masters - Grillmeister vom Flaucher
+So. 14.07.2019 | Pythonistas - Grillmeister vom Flaucher
+So. 21.07.2019 | Sprinter - Grillmeister vom Flaucher
+So. 28.07.2019 | Leidgeprüfte 60er - Grillmeister vom Flaucher
+So. 04.08.2019 | Truderinger Tastenquäler - Grillmeister vom Flaucher
+So. 11.08.2019 | Hachinger Kickers - Grillmeister vom Flaucher
+So. 18.08.2019 | Eisbachsurfer - Grillmeister vom Flaucher
+So. 25.08.2019 | Rate limited Kanban - Grillmeister vom Flaucher
+So. 01.09.2019 | P.A. Sing - Grillmeister vom Flaucher
+So. 08.09.2019 | PHP-Proleten - Grillmeister vom Flaucher
+So. 15.09.2019 | Debugger Duisburg - FC Miesbach
+So. 22.09.2019 | Kegelklub von umme Ecke - FC Miesbach
+So. 29.09.2019 | Jahn München - FC Miesbach
+So. 06.10.2019 | JWD Freimann - FC Miesbach
+So. 13.10.2019 | Die Storypoints - FC Miesbach
+So. 20.10.2019 | Lieber Scrum als Fußball - FC Miesbach
+So. 27.10.2019 | Gitarrengötter Giesing - FC Miesbach
+So. 03.11.2019 | Flachmänner vom Flaucher - FC Miesbach
+So. 10.11.2019 | Isarritter - FC Miesbach
+So. 17.11.2019 | Microsofties Unterhaching - FC Miesbach
+So. 24.11.2019 | Olchinger Olme - FC Miesbach
+So. 01.12.2019 | Team Foobar - FC Miesbach
+So. 08.12.2019 | Shopping Queens PEP - FC Miesbach
+So. 15.12.2019 | Tischkicker Neubiberg - FC Miesbach
+So. 22.12.2019 | Weißblau Riem - FC Miesbach
+So. 29.12.2019 | Product Owner United - FC Miesbach
+So. 05.01.2020 | Bogenhausener Bananenflanker - FC Miesbach
+So. 12.01.2020 | Scrum Masters - FC Miesbach
+So. 19.01.2020 | Pythonistas - FC Miesbach
+So. 26.01.2020 | Sprinter - FC Miesbach
+So. 02.02.2020 | Leidgeprüfte 60er - FC Miesbach
+So. 09.02.2020 | Truderinger Tastenquäler - FC Miesbach
+So. 16.02.2020 | Hachinger Kickers - FC Miesbach
+So. 23.02.2020 | Eisbachsurfer - FC Miesbach
+So. 01.03.2020 | Rate limited Kanban - FC Miesbach
+So. 08.03.2020 | P.A. Sing - FC Miesbach
+So. 15.03.2020 | PHP-Proleten - FC Miesbach
+So. 22.03.2020 | Kegelklub von umme Ecke - Debugger Duisburg
+So. 29.03.2020 | Jahn München - Debugger Duisburg
+So. 05.04.2020 | JWD Freimann - Debugger Duisburg
+So. 12.04.2020 | Die Storypoints - Debugger Duisburg
+So. 19.04.2020 | Lieber Scrum als Fußball - Debugger Duisburg
+So. 26.04.2020 | Gitarrengötter Giesing - Debugger Duisburg
+So. 03.05.2020 | Flachmänner vom Flaucher - Debugger Duisburg
+So. 10.05.2020 | Isarritter - Debugger Duisburg
+So. 17.05.2020 | Microsofties Unterhaching - Debugger Duisburg
+So. 24.05.2020 | Olchinger Olme - Debugger Duisburg
+So. 31.05.2020 | Team Foobar - Debugger Duisburg
+So. 07.06.2020 | Shopping Queens PEP - Debugger Duisburg
+So. 14.06.2020 | Tischkicker Neubiberg - Debugger Duisburg
+So. 21.06.2020 | Weißblau Riem - Debugger Duisburg
+So. 28.06.2020 | Product Owner United - Debugger Duisburg
+So. 05.07.2020 | Bogenhausener Bananenflanker - Debugger Duisburg
+So. 12.07.2020 | Scrum Masters - Debugger Duisburg
+So. 19.07.2020 | Pythonistas - Debugger Duisburg
+So. 26.07.2020 | Sprinter - Debugger Duisburg
+So. 02.08.2020 | Leidgeprüfte 60er - Debugger Duisburg
+So. 09.08.2020 | Truderinger Tastenquäler - Debugger Duisburg
+So. 16.08.2020 | Hachinger Kickers - Debugger Duisburg
+So. 23.08.2020 | Eisbachsurfer - Debugger Duisburg
+So. 30.08.2020 | Rate limited Kanban - Debugger Duisburg
+So. 06.09.2020 | P.A. Sing - Debugger Duisburg
+So. 13.09.2020 | PHP-Proleten - Debugger Duisburg
+So. 20.09.2020 | Jahn München - Kegelklub von umme Ecke
+So. 27.09.2020 | JWD Freimann - Kegelklub von umme Ecke
+So. 04.10.2020 | Die Storypoints - Kegelklub von umme Ecke
+So. 11.10.2020 | Lieber Scrum als Fußball - Kegelklub von umme Ecke
+So. 18.10.2020 | Gitarrengötter Giesing - Kegelklub von umme Ecke
+So. 25.10.2020 | Flachmänner vom Flaucher - Kegelklub von umme Ecke
+So. 01.11.2020 | Isarritter - Kegelklub von umme Ecke
+So. 08.11.2020 | Microsofties Unterhaching - Kegelklub von umme Ecke
+So. 15.11.2020 | Olchinger Olme - Kegelklub von umme Ecke
+So. 22.11.2020 | Team Foobar - Kegelklub von umme Ecke
+So. 29.11.2020 | Shopping Queens PEP - Kegelklub von umme Ecke
+So. 06.12.2020 | Tischkicker Neubiberg - Kegelklub von umme Ecke
+So. 13.12.2020 | Weißblau Riem - Kegelklub von umme Ecke
+So. 20.12.2020 | Product Owner United - Kegelklub von umme Ecke
+So. 27.12.2020 | Bogenhausener Bananenflanker - Kegelklub von umme Ecke
+So. 03.01.2021 | Scrum Masters - Kegelklub von umme Ecke
+So. 10.01.2021 | Pythonistas - Kegelklub von umme Ecke
+So. 17.01.2021 | Sprinter - Kegelklub von umme Ecke
+So. 24.01.2021 | Leidgeprüfte 60er - Kegelklub von umme Ecke
+So. 31.01.2021 | Truderinger Tastenquäler - Kegelklub von umme Ecke
+So. 07.02.2021 | Hachinger Kickers - Kegelklub von umme Ecke
+So. 14.02.2021 | Eisbachsurfer - Kegelklub von umme Ecke
+So. 21.02.2021 | Rate limited Kanban - Kegelklub von umme Ecke
+So. 28.02.2021 | P.A. Sing - Kegelklub von umme Ecke
+So. 07.03.2021 | PHP-Proleten - Kegelklub von umme Ecke
+So. 14.03.2021 | JWD Freimann - Jahn München
+So. 21.03.2021 | Die Storypoints - Jahn München
+So. 28.03.2021 | Lieber Scrum als Fußball - Jahn München
+So. 04.04.2021 | Gitarrengötter Giesing - Jahn München
+So. 11.04.2021 | Flachmänner vom Flaucher - Jahn München
+So. 18.04.2021 | Isarritter - Jahn München
+So. 25.04.2021 | Microsofties Unterhaching - Jahn München
+So. 02.05.2021 | Olchinger Olme - Jahn München
+So. 09.05.2021 | Team Foobar - Jahn München
+So. 16.05.2021 | Shopping Queens PEP - Jahn München
+So. 23.05.2021 | Tischkicker Neubiberg - Jahn München
+So. 30.05.2021 | Weißblau Riem - Jahn München
+So. 06.06.2021 | Product Owner United - Jahn München
+So. 13.06.2021 | Bogenhausener Bananenflanker - Jahn München
+So. 20.06.2021 | Scrum Masters - Jahn München
+So. 27.06.2021 | Pythonistas - Jahn München
+So. 04.07.2021 | Sprinter - Jahn München
+So. 11.07.2021 | Leidgeprüfte 60er - Jahn München
+So. 18.07.2021 | Truderinger Tastenquäler - Jahn München
+So. 25.07.2021 | Hachinger Kickers - Jahn München
+So. 01.08.2021 | Eisbachsurfer - Jahn München
+So. 08.08.2021 | Rate limited Kanban - Jahn München
+So. 15.08.2021 | P.A. Sing - Jahn München
+So. 22.08.2021 | PHP-Proleten - Jahn München
+So. 29.08.2021 | Die Storypoints - JWD Freimann
+So. 05.09.2021 | Lieber Scrum als Fußball - JWD Freimann
+So. 12.09.2021 | Gitarrengötter Giesing - JWD Freimann
+So. 19.09.2021 | Flachmänner vom Flaucher - JWD Freimann
+So. 26.09.2021 | Isarritter - JWD Freimann
+So. 03.10.2021 | Microsofties Unterhaching - JWD Freimann
+So. 10.10.2021 | Olchinger Olme - JWD Freimann
+So. 17.10.2021 | Team Foobar - JWD Freimann
+So. 24.10.2021 | Shopping Queens PEP - JWD Freimann
+So. 31.10.2021 | Tischkicker Neubiberg - JWD Freimann
+So. 07.11.2021 | Weißblau Riem - JWD Freimann
+So. 14.11.2021 | Product Owner United - JWD Freimann
+So. 21.11.2021 | Bogenhausener Bananenflanker - JWD Freimann
+So. 28.11.2021 | Scrum Masters - JWD Freimann
+So. 05.12.2021 | Pythonistas - JWD Freimann
+So. 12.12.2021 | Sprinter - JWD Freimann
+So. 19.12.2021 | Leidgeprüfte 60er - JWD Freimann
+So. 26.12.2021 | Truderinger Tastenquäler - JWD Freimann
+So. 02.01.2022 | Hachinger Kickers - JWD Freimann
+So. 09.01.2022 | Eisbachsurfer - JWD Freimann
+So. 16.01.2022 | Rate limited Kanban - JWD Freimann
+So. 23.01.2022 | P.A. Sing - JWD Freimann
+So. 30.01.2022 | PHP-Proleten - JWD Freimann
+So. 06.02.2022 | Lieber Scrum als Fußball - Die Storypoints
+So. 13.02.2022 | Gitarrengötter Giesing - Die Storypoints
+So. 20.02.2022 | Flachmänner vom Flaucher - Die Storypoints
+So. 27.02.2022 | Isarritter - Die Storypoints
+So. 06.03.2022 | Microsofties Unterhaching - Die Storypoints
+So. 13.03.2022 | Olchinger Olme - Die Storypoints
+So. 20.03.2022 | Team Foobar - Die Storypoints
+So. 27.03.2022 | Shopping Queens PEP - Die Storypoints
+So. 03.04.2022 | Tischkicker Neubiberg - Die Storypoints
+So. 10.04.2022 | Weißblau Riem - Die Storypoints
+So. 17.04.2022 | Product Owner United - Die Storypoints
+So. 24.04.2022 | Bogenhausener Bananenflanker - Die Storypoints
+So. 01.05.2022 | Scrum Masters - Die Storypoints
+So. 08.05.2022 | Pythonistas - Die Storypoints
+So. 15.05.2022 | Sprinter - Die Storypoints
+So. 22.05.2022 | Leidgeprüfte 60er - Die Storypoints
+So. 29.05.2022 | Truderinger Tastenquäler - Die Storypoints
+So. 05.06.2022 | Hachinger Kickers - Die Storypoints
+So. 12.06.2022 | Eisbachsurfer - Die Storypoints
+So. 19.06.2022 | Rate limited Kanban - Die Storypoints
+So. 26.06.2022 | P.A. Sing - Die Storypoints
+So. 03.07.2022 | PHP-Proleten - Die Storypoints
+So. 10.07.2022 | Gitarrengötter Giesing - Lieber Scrum als Fußball
+So. 17.07.2022 | Flachmänner vom Flaucher - Lieber Scrum als Fußball
+So. 24.07.2022 | Isarritter - Lieber Scrum als Fußball
+So. 31.07.2022 | Microsofties Unterhaching - Lieber Scrum als Fußball
+So. 07.08.2022 | Olchinger Olme - Lieber Scrum als Fußball
+So. 14.08.2022 | Team Foobar - Lieber Scrum als Fußball
+So. 21.08.2022 | Shopping Queens PEP - Lieber Scrum als Fußball
+So. 28.08.2022 | Tischkicker Neubiberg - Lieber Scrum als Fußball
+So. 04.09.2022 | Weißblau Riem - Lieber Scrum als Fußball
+So. 11.09.2022 | Product Owner United - Lieber Scrum als Fußball
+So. 18.09.2022 | Bogenhausener Bananenflanker - Lieber Scrum als Fußball
+So. 25.09.2022 | Scrum Masters - Lieber Scrum als Fußball
+So. 02.10.2022 | Pythonistas - Lieber Scrum als Fußball
+So. 09.10.2022 | Sprinter - Lieber Scrum als Fußball
+So. 16.10.2022 | Leidgeprüfte 60er - Lieber Scrum als Fußball
+So. 23.10.2022 | Truderinger Tastenquäler - Lieber Scrum als Fußball
+So. 30.10.2022 | Hachinger Kickers - Lieber Scrum als Fußball
+So. 06.11.2022 | Eisbachsurfer - Lieber Scrum als Fußball
+So. 13.11.2022 | Rate limited Kanban - Lieber Scrum als Fußball
+So. 20.11.2022 | P.A. Sing - Lieber Scrum als Fußball
+So. 27.11.2022 | PHP-Proleten - Lieber Scrum als Fußball
+So. 04.12.2022 | Flachmänner vom Flaucher - Gitarrengötter Giesing
+So. 11.12.2022 | Isarritter - Gitarrengötter Giesing
+So. 18.12.2022 | Microsofties Unterhaching - Gitarrengötter Giesing
+So. 25.12.2022 | Olchinger Olme - Gitarrengötter Giesing
+So. 01.01.2023 | Team Foobar - Gitarrengötter Giesing
+So. 08.01.2023 | Shopping Queens PEP - Gitarrengötter Giesing
+So. 15.01.2023 | Tischkicker Neubiberg - Gitarrengötter Giesing
+So. 22.01.2023 | Weißblau Riem - Gitarrengötter Giesing
+So. 29.01.2023 | Product Owner United - Gitarrengötter Giesing
+So. 05.02.2023 | Bogenhausener Bananenflanker - Gitarrengötter Giesing
+So. 12.02.2023 | Scrum Masters - Gitarrengötter Giesing
+So. 19.02.2023 | Pythonistas - Gitarrengötter Giesing
+So. 26.02.2023 | Sprinter - Gitarrengötter Giesing
+So. 05.03.2023 | Leidgeprüfte 60er - Gitarrengötter Giesing
+So. 12.03.2023 | Truderinger Tastenquäler - Gitarrengötter Giesing
+So. 19.03.2023 | Hachinger Kickers - Gitarrengötter Giesing
+So. 26.03.2023 | Eisbachsurfer - Gitarrengötter Giesing
+So. 02.04.2023 | Rate limited Kanban - Gitarrengötter Giesing
+So. 09.04.2023 | P.A. Sing - Gitarrengötter Giesing
+So. 16.04.2023 | PHP-Proleten - Gitarrengötter Giesing
+So. 23.04.2023 | Isarritter - Flachmänner vom Flaucher
+So. 30.04.2023 | Microsofties Unterhaching - Flachmänner vom Flaucher
+So. 07.05.2023 | Olchinger Olme - Flachmänner vom Flaucher
+So. 14.05.2023 | Team Foobar - Flachmänner vom Flaucher
+So. 21.05.2023 | Shopping Queens PEP - Flachmänner vom Flaucher
+So. 28.05.2023 | Tischkicker Neubiberg - Flachmänner vom Flaucher
+So. 04.06.2023 | Weißblau Riem - Flachmänner vom Flaucher
+So. 11.06.2023 | Product Owner United - Flachmänner vom Flaucher
+So. 18.06.2023 | Bogenhausener Bananenflanker - Flachmänner vom Flaucher
+So. 25.06.2023 | Scrum Masters - Flachmänner vom Flaucher
+So. 02.07.2023 | Pythonistas - Flachmänner vom Flaucher
+So. 09.07.2023 | Sprinter - Flachmänner vom Flaucher
+So. 16.07.2023 | Leidgeprüfte 60er - Flachmänner vom Flaucher
+So. 23.07.2023 | Truderinger Tastenquäler - Flachmänner vom Flaucher
+So. 30.07.2023 | Hachinger Kickers - Flachmänner vom Flaucher
+So. 06.08.2023 | Eisbachsurfer - Flachmänner vom Flaucher
+So. 13.08.2023 | Rate limited Kanban - Flachmänner vom Flaucher
+So. 20.08.2023 | P.A. Sing - Flachmänner vom Flaucher
+So. 27.08.2023 | PHP-Proleten - Flachmänner vom Flaucher
+So. 03.09.2023 | Microsofties Unterhaching - Isarritter
+So. 10.09.2023 | Olchinger Olme - Isarritter
+So. 17.09.2023 | Team Foobar - Isarritter
+So. 24.09.2023 | Shopping Queens PEP - Isarritter
+So. 01.10.2023 | Tischkicker Neubiberg - Isarritter
+So. 08.10.2023 | Weißblau Riem - Isarritter
+So. 15.10.2023 | Product Owner United - Isarritter
+So. 22.10.2023 | Bogenhausener Bananenflanker - Isarritter
+So. 29.10.2023 | Scrum Masters - Isarritter
+So. 05.11.2023 | Pythonistas - Isarritter
+So. 12.11.2023 | Sprinter - Isarritter
+So. 19.11.2023 | Leidgeprüfte 60er - Isarritter
+So. 26.11.2023 | Truderinger Tastenquäler - Isarritter
+So. 03.12.2023 | Hachinger Kickers - Isarritter
+So. 10.12.2023 | Eisbachsurfer - Isarritter
+So. 17.12.2023 | Rate limited Kanban - Isarritter
+So. 24.12.2023 | P.A. Sing - Isarritter
+So. 31.12.2023 | PHP-Proleten - Isarritter
+So. 07.01.2024 | Olchinger Olme - Microsofties Unterhaching
+So. 14.01.2024 | Team Foobar - Microsofties Unterhaching
+So. 21.01.2024 | Shopping Queens PEP - Microsofties Unterhaching
+So. 28.01.2024 | Tischkicker Neubiberg - Microsofties Unterhaching
+So. 04.02.2024 | Weißblau Riem - Microsofties Unterhaching
+So. 11.02.2024 | Product Owner United - Microsofties Unterhaching
+So. 18.02.2024 | Bogenhausener Bananenflanker - Microsofties Unterhaching
+So. 25.02.2024 | Scrum Masters - Microsofties Unterhaching
+So. 03.03.2024 | Pythonistas - Microsofties Unterhaching
+So. 10.03.2024 | Sprinter - Microsofties Unterhaching
+So. 17.03.2024 | Leidgeprüfte 60er - Microsofties Unterhaching
+So. 24.03.2024 | Truderinger Tastenquäler - Microsofties Unterhaching
+So. 31.03.2024 | Hachinger Kickers - Microsofties Unterhaching
+So. 07.04.2024 | Eisbachsurfer - Microsofties Unterhaching
+So. 14.04.2024 | Rate limited Kanban - Microsofties Unterhaching
+So. 21.04.2024 | P.A. Sing - Microsofties Unterhaching
+So. 28.04.2024 | PHP-Proleten - Microsofties Unterhaching
+So. 05.05.2024 | Team Foobar - Olchinger Olme
+So. 12.05.2024 | Shopping Queens PEP - Olchinger Olme
+So. 19.05.2024 | Tischkicker Neubiberg - Olchinger Olme
+So. 26.05.2024 | Weißblau Riem - Olchinger Olme
+So. 02.06.2024 | Product Owner United - Olchinger Olme
+So. 09.06.2024 | Bogenhausener Bananenflanker - Olchinger Olme
+So. 16.06.2024 | Scrum Masters - Olchinger Olme
+So. 23.06.2024 | Pythonistas - Olchinger Olme
+So. 30.06.2024 | Sprinter - Olchinger Olme
+So. 07.07.2024 | Leidgeprüfte 60er - Olchinger Olme
+So. 14.07.2024 | Truderinger Tastenquäler - Olchinger Olme
+So. 21.07.2024 | Hachinger Kickers - Olchinger Olme
+So. 28.07.2024 | Eisbachsurfer - Olchinger Olme
+So. 04.08.2024 | Rate limited Kanban - Olchinger Olme
+So. 11.08.2024 | P.A. Sing - Olchinger Olme
+So. 18.08.2024 | PHP-Proleten - Olchinger Olme
+So. 25.08.2024 | Shopping Queens PEP - Team Foobar
+So. 01.09.2024 | Tischkicker Neubiberg - Team Foobar
+So. 08.09.2024 | Weißblau Riem - Team Foobar
+So. 15.09.2024 | Product Owner United - Team Foobar
+So. 22.09.2024 | Bogenhausener Bananenflanker - Team Foobar
+So. 29.09.2024 | Scrum Masters - Team Foobar
+So. 06.10.2024 | Pythonistas - Team Foobar
+So. 13.10.2024 | Sprinter - Team Foobar
+So. 20.10.2024 | Leidgeprüfte 60er - Team Foobar
+So. 27.10.2024 | Truderinger Tastenquäler - Team Foobar
+So. 03.11.2024 | Hachinger Kickers - Team Foobar
+So. 10.11.2024 | Eisbachsurfer - Team Foobar
+So. 17.11.2024 | Rate limited Kanban - Team Foobar
+So. 24.11.2024 | P.A. Sing - Team Foobar
+So. 01.12.2024 | PHP-Proleten - Team Foobar
+So. 08.12.2024 | Tischkicker Neubiberg - Shopping Queens PEP
+So. 15.12.2024 | Weißblau Riem - Shopping Queens PEP
+So. 22.12.2024 | Product Owner United - Shopping Queens PEP
+So. 29.12.2024 | Bogenhausener Bananenflanker - Shopping Queens PEP
+So. 05.01.2025 | Scrum Masters - Shopping Queens PEP
+So. 12.01.2025 | Pythonistas - Shopping Queens PEP
+So. 19.01.2025 | Sprinter - Shopping Queens PEP
+So. 26.01.2025 | Leidgeprüfte 60er - Shopping Queens PEP
+So. 02.02.2025 | Truderinger Tastenquäler - Shopping Queens PEP
+So. 09.02.2025 | Hachinger Kickers - Shopping Queens PEP
+So. 16.02.2025 | Eisbachsurfer - Shopping Queens PEP
+So. 23.02.2025 | Rate limited Kanban - Shopping Queens PEP
+So. 02.03.2025 | P.A. Sing - Shopping Queens PEP
+So. 09.03.2025 | PHP-Proleten - Shopping Queens PEP
+So. 16.03.2025 | Weißblau Riem - Tischkicker Neubiberg
+So. 23.03.2025 | Product Owner United - Tischkicker Neubiberg
+So. 30.03.2025 | Bogenhausener Bananenflanker - Tischkicker Neubiberg
+So. 06.04.2025 | Scrum Masters - Tischkicker Neubiberg
+So. 13.04.2025 | Pythonistas - Tischkicker Neubiberg
+So. 20.04.2025 | Sprinter - Tischkicker Neubiberg
+So. 27.04.2025 | Leidgeprüfte 60er - Tischkicker Neubiberg
+So. 04.05.2025 | Truderinger Tastenquäler - Tischkicker Neubiberg
+So. 11.05.2025 | Hachinger Kickers - Tischkicker Neubiberg
+So. 18.05.2025 | Eisbachsurfer - Tischkicker Neubiberg
+So. 25.05.2025 | Rate limited Kanban - Tischkicker Neubiberg
+So. 01.06.2025 | P.A. Sing - Tischkicker Neubiberg
+So. 08.06.2025 | PHP-Proleten - Tischkicker Neubiberg
+So. 15.06.2025 | Product Owner United - Weißblau Riem
+So. 22.06.2025 | Bogenhausener Bananenflanker - Weißblau Riem
+So. 29.06.2025 | Scrum Masters - Weißblau Riem
+So. 06.07.2025 | Pythonistas - Weißblau Riem
+So. 13.07.2025 | Sprinter - Weißblau Riem
+So. 20.07.2025 | Leidgeprüfte 60er - Weißblau Riem
+So. 27.07.2025 | Truderinger Tastenquäler - Weißblau Riem
+So. 03.08.2025 | Hachinger Kickers - Weißblau Riem
+So. 10.08.2025 | Eisbachsurfer - Weißblau Riem
+So. 17.08.2025 | Rate limited Kanban - Weißblau Riem
+So. 24.08.2025 | P.A. Sing - Weißblau Riem
+So. 31.08.2025 | PHP-Proleten - Weißblau Riem
+So. 07.09.2025 | Bogenhausener Bananenflanker - Product Owner United
+So. 14.09.2025 | Scrum Masters - Product Owner United
+So. 21.09.2025 | Pythonistas - Product Owner United
+So. 28.09.2025 | Sprinter - Product Owner United
+So. 05.10.2025 | Leidgeprüfte 60er - Product Owner United
+So. 12.10.2025 | Truderinger Tastenquäler - Product Owner United
+So. 19.10.2025 | Hachinger Kickers - Product Owner United
+So. 26.10.2025 | Eisbachsurfer - Product Owner United
+So. 02.11.2025 | Rate limited Kanban - Product Owner United
+So. 09.11.2025 | P.A. Sing - Product Owner United
+So. 16.11.2025 | PHP-Proleten - Product Owner United
+So. 23.11.2025 | Scrum Masters - Bogenhausener Bananenflanker
+So. 30.11.2025 | Pythonistas - Bogenhausener Bananenflanker
+So. 07.12.2025 | Sprinter - Bogenhausener Bananenflanker
+So. 14.12.2025 | Leidgeprüfte 60er - Bogenhausener Bananenflanker
+So. 21.12.2025 | Truderinger Tastenquäler - Bogenhausener Bananenflanker
+So. 28.12.2025 | Hachinger Kickers - Bogenhausener Bananenflanker
+So. 04.01.2026 | Eisbachsurfer - Bogenhausener Bananenflanker
+So. 11.01.2026 | Rate limited Kanban - Bogenhausener Bananenflanker
+So. 18.01.2026 | P.A. Sing - Bogenhausener Bananenflanker
+So. 25.01.2026 | PHP-Proleten - Bogenhausener Bananenflanker
+So. 01.02.2026 | Pythonistas - Scrum Masters
+So. 08.02.2026 | Sprinter - Scrum Masters
+So. 15.02.2026 | Leidgeprüfte 60er - Scrum Masters
+So. 22.02.2026 | Truderinger Tastenquäler - Scrum Masters
+So. 01.03.2026 | Hachinger Kickers - Scrum Masters
+So. 08.03.2026 | Eisbachsurfer - Scrum Masters
+So. 15.03.2026 | Rate limited Kanban - Scrum Masters
+So. 22.03.2026 | P.A. Sing - Scrum Masters
+So. 29.03.2026 | PHP-Proleten - Scrum Masters
+So. 05.04.2026 | Sprinter - Pythonistas
+So. 12.04.2026 | Leidgeprüfte 60er - Pythonistas
+So. 19.04.2026 | Truderinger Tastenquäler - Pythonistas
+So. 26.04.2026 | Hachinger Kickers - Pythonistas
+So. 03.05.2026 | Eisbachsurfer - Pythonistas
+So. 10.05.2026 | Rate limited Kanban - Pythonistas
+So. 17.05.2026 | P.A. Sing - Pythonistas
+So. 24.05.2026 | PHP-Proleten - Pythonistas
+So. 31.05.2026 | Leidgeprüfte 60er - Sprinter
+So. 07.06.2026 | Truderinger Tastenquäler - Sprinter
+So. 14.06.2026 | Hachinger Kickers - Sprinter
+So. 21.06.2026 | Eisbachsurfer - Sprinter
+So. 28.06.2026 | Rate limited Kanban - Sprinter
+So. 05.07.2026 | P.A. Sing - Sprinter
+So. 12.07.2026 | PHP-Proleten - Sprinter
+So. 19.07.2026 | Truderinger Tastenquäler - Leidgeprüfte 60er
+So. 26.07.2026 | Hachinger Kickers - Leidgeprüfte 60er
+So. 02.08.2026 | Eisbachsurfer - Leidgeprüfte 60er
+So. 09.08.2026 | Rate limited Kanban - Leidgeprüfte 60er
+So. 16.08.2026 | P.A. Sing - Leidgeprüfte 60er
+So. 23.08.2026 | PHP-Proleten - Leidgeprüfte 60er
+So. 30.08.2026 | Hachinger Kickers - Truderinger Tastenquäler
+So. 06.09.2026 | Eisbachsurfer - Truderinger Tastenquäler
+So. 13.09.2026 | Rate limited Kanban - Truderinger Tastenquäler
+So. 20.09.2026 | P.A. Sing - Truderinger Tastenquäler
+So. 27.09.2026 | PHP-Proleten - Truderinger Tastenquäler
+So. 04.10.2026 | Eisbachsurfer - Hachinger Kickers
+So. 11.10.2026 | Rate limited Kanban - Hachinger Kickers
+So. 18.10.2026 | P.A. Sing - Hachinger Kickers
+So. 25.10.2026 | PHP-Proleten - Hachinger Kickers
+So. 01.11.2026 | Rate limited Kanban - Eisbachsurfer
+So. 08.11.2026 | P.A. Sing - Eisbachsurfer
+So. 15.11.2026 | PHP-Proleten - Eisbachsurfer
+So. 22.11.2026 | P.A. Sing - Rate limited Kanban
+So. 29.11.2026 | PHP-Proleten - Rate limited Kanban
+So. 06.12.2026 | PHP-Proleten - P.A. Sing

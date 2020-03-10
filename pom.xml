@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.elmarschraml</groupId>
 	<artifactId>gameschedule</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>gameschedule</name>
 	<description>A little Java showcase that schedules game for a given list of teams</description>
 
