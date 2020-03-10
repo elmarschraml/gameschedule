@@ -61,7 +61,7 @@ public class SeasonFileExporterTest {
         season.setSeasonName(seasonName);
         season.setLeagueName(leagueName);
         season.setStartDate(LocalDate.of(2015, Month.JANUARY,1));
-        season.setStartDate(LocalDate.of(2015, Month.DECEMBER,31));
+        season.setEndDate(LocalDate.of(2015, Month.DECEMBER,31));
     }
 
     @Test

@@ -7,14 +7,16 @@ import com.fasterxml.jackson.datatype.jsr310.deser.LocalDateDeserializer;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 /**
  * Represents a season of a league.
  * Leagues and seasons currently have no metadata, i.e. are represented by an arbitrary String
  */
 public class Season {
-    List<Team> teams = new ArrayList<>();
+    Set<Team> teams = new HashSet<>();
     List<Match> matches = new ArrayList<>();
     private String leagueName;
     private String seasonName;
@@ -69,11 +71,11 @@ public class Season {
         this.endDate = endDate;
     }
 
-    public List<Team> getTeams() {
+    public Set<Team> getTeams() {
         return teams;
     }
 
-    public void setTeams(List<Team> teams) {
+    public void setTeams(Set<Team> teams) {
         this.teams = teams;
     }
 }

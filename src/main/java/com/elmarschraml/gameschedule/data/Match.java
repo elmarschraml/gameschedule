@@ -4,6 +4,8 @@ import java.time.LocalDate;
 
 /**
  * Represents a single match occuring in a season
+ * Does not validate if a match makes sense - you could e.g. set home team and away team to the same team
+ * So please use with a well-implemented season scheduler
  */
 public class Match {
     private LocalDate date;
@@ -12,6 +14,17 @@ public class Match {
 
     public Match(LocalDate date, Team homeTeam, Team awayTeam) {
         this.date = date;
+        this.homeTeam = homeTeam;
+        this.awayTeam = awayTeam;
+    }
+
+    /**
+     * creates a match with no date set yet
+     * so invalid as a scheduled match, but might be useful for scheduling purposes
+     * @param homeTeam any Team
+     * @param awayTeam any Team
+     */
+    public Match(Team homeTeam, Team awayTeam) {
         this.homeTeam = homeTeam;
         this.awayTeam = awayTeam;
     }
