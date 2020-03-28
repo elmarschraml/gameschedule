@@ -16,20 +16,20 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class SundaySeasonSchedulerTest {
 
-    private SundaySeasonScheduler scheduler;
-    private Season baseSeason;
+    protected SundaySeasonScheduler scheduler;
+    protected Season baseSeason;
 
     private static final String seasonName = "aSeason";
     private static final String leagueName = "aLeague";
-    private static final Team team1 = new Team("Foos");
-    private static final Team team2 = new Team("Bars");
-    private static final Team team3 = new Team("Bazzes");
-    private static final Team team4 = new Team("The Runtime Exceptions");
+    protected static final Team team1 = new Team("Foos");
+    protected static final Team team2 = new Team("Bars");
+    protected static final Team team3 = new Team("Bazzes");
+    protected static final Team team4 = new Team("The Runtime Exceptions");
     private static final Team team5 = new Team("the Team with a very, very, very, very, very, very, very, very, very, very, very, very, very, very, very long name");
 
 
 
-    private void setBaseData(Season season) {
+    protected void setBaseData(Season season) {
         season.setSeasonName(seasonName);
         season.setLeagueName(leagueName);
         season.setStartDate(LocalDate.of(2015, Month.JANUARY,1));

@@ -17,7 +17,7 @@ import java.util.*;
  *
  * @See com.elmarschraml.gameschedule.schedule.SeasonScheduler
  */
-@Component
+
 public class SundaySeasonScheduler implements SeasonScheduler {
 
     public static final int MAX_NR_OF_TEAMS = 1000;
@@ -31,13 +31,16 @@ public class SundaySeasonScheduler implements SeasonScheduler {
     @Override
     public Season scheduleMatchesForAllTeams(Season season) {
         validateInput(season);
-        List<Match> allPairings = getAllPairings(season);
+        cleanupTeams(season);
+        List<Match> firstRoundPairings = createFirstRound(season);
+        List<Match> secondRoundPairings = createSecondRoundFromFirst(firstRoundPairings);
         List<LocalDate> allDates = getAllPossibleMatchDates(season.getStartDate(), season.getEndDate());
-        if (allPairings.size() > allDates.size()) {
-            throw new IllegalStateException("not enough Sundays in the season to fit all games - got "+ allPairings.size() +
+        int nrOfPairings = firstRoundPairings.size() + secondRoundPairings.size();
+        if (nrOfPairings > allDates.size()) {
+            throw new IllegalStateException("not enough Sundays in the season to fit all games - got "+ nrOfPairings +
                     " games, but only " + allDates.size() + " sundays");
         }
-        List<Match> scheduledMatches = scheduleMatches(allPairings, allDates);
+        List<Match> scheduledMatches = scheduleMatches(firstRoundPairings, secondRoundPairings, allDates);
         season.setMatches(scheduledMatches);
         return season;
     }
@@ -65,14 +68,17 @@ public class SundaySeasonScheduler implements SeasonScheduler {
         }
     }
 
-    private List<Match> scheduleMatches(List<Match> allPairings, List<LocalDate> allMatchDates) {
-        if (allPairings.size() > allMatchDates.size()) {
+    protected List<Match> scheduleMatches(List<Match> firstRoundPairings, List<Match> secondRoundPairings,List<LocalDate> allMatchDates ) {
+        if ( (firstRoundPairings.size()  + secondRoundPairings.size()) > allMatchDates.size()) {
             throw new IllegalStateException("season is too short - cannot find match dates for all necessary matches");
         }
-        for (int pairingIdx = 0; pairingIdx < allPairings.size(); pairingIdx++) {
-            allPairings.get(pairingIdx).setDate(allMatchDates.get(pairingIdx));
+        //we dont treat first and second round matches differently, so just combine to one list
+        firstRoundPairings.addAll(secondRoundPairings);
+
+        for (int pairingIdx = 0; pairingIdx < firstRoundPairings.size(); pairingIdx++) {
+            firstRoundPairings.get(pairingIdx).setDate(allMatchDates.get(pairingIdx));
         }
-        return allPairings;
+        return firstRoundPairings;
     }
 
      List<LocalDate> getAllPossibleMatchDates(LocalDate startDate, LocalDate endDate) {
@@ -87,13 +93,6 @@ public class SundaySeasonScheduler implements SeasonScheduler {
         return matchDates;
     }
 
-    List<Match> getAllPairings(Season season) {
-        cleanupTeams(season);
-        List<Match> allMatches = createFirstRound(season);
-        allMatches.addAll(createSecondRoundFromFirst(allMatches));
-        return allMatches;
-    }
-
     void cleanupTeams(Season season) {
         Set<Team> cleanTeams = new HashSet<>();
         for (Team curTeam : season.getTeams()) {
@@ -105,7 +104,7 @@ public class SundaySeasonScheduler implements SeasonScheduler {
     }
 
 
-    private List<Match> createFirstRound(Season season) {
+    protected List<Match> createFirstRound(Season season) {
         List<Team> teams = new ArrayList<>(season.getTeams());
         List<Match> pairings = new ArrayList<>();
         while (teams.size() > 1) {
@@ -118,7 +117,7 @@ public class SundaySeasonScheduler implements SeasonScheduler {
         return pairings;
     }
 
-    private List<Match> createSecondRoundFromFirst(List<Match> firstRoundMatches) {
+    protected List<Match> createSecondRoundFromFirst(List<Match> firstRoundMatches) {
         List<Match> secondRoundMatches = new ArrayList<>();
         firstRoundMatches.forEach( match ->
            secondRoundMatches.add(new Match(match.getAwayTeam(), match.getHomeTeam()))
