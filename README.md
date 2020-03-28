@@ -34,6 +34,10 @@ Check that java -version returns Java 11.
 3. Find your generated schedule in the file spielplan<timestamp>.txt in the directory exportdir 
 (or edit application.properties to change the export file and directory)
 
+#### Configuration
+* File names and directories for input and output are read from resources/application.properties
+* The specific Scheduler implementation to use is set by annotating the desired implementation of  SeasonScheduler as @Component
+
 #### Troubleshooting
 * if running the jarfile with the java command should fail, try instead ./mvnw spring-boot:run
 * If running the app ends in "Build failure" with exit code 1, check the log for errors - most likely the input dir or filename were misconfigured in application.properties.
@@ -60,10 +64,6 @@ You could e.g. provide a new implementation of Exporter that also writes to a da
 #### Improvements
 ###### Functional
 * read input filename as commandline argument
-* randomize games of each round to prevent the same team from playing all its games in a row
-* if there is lots more potential game days than games, have an option to spread the games over the season,
-instead of having them all happen as quickly as possible
 ###### Technical
 * generalize creation of unit test data
-* check and improve test coverage
 * split Scheduler into separate classes for determining match days and pairings
