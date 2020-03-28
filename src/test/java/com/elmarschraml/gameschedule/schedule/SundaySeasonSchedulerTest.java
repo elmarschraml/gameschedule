@@ -1,5 +1,6 @@
 package com.elmarschraml.gameschedule.schedule;
 
+import com.elmarschraml.gameschedule.data.Match;
 import com.elmarschraml.gameschedule.data.Season;
 import com.elmarschraml.gameschedule.data.Team;
 import com.elmarschraml.gameschedule.export.SeasonFileExporter;
@@ -145,6 +146,21 @@ public class SundaySeasonSchedulerTest {
         baseSeason.setTeams(teamSetWithBlanks);
         scheduler.cleanupTeams(baseSeason);
         assertEquals(baseSeason.getTeams().size(), 2, "null teams should have been removed");
+    }
+
+    @Test
+    public void testSwitchHomeAndAwayTeamsBetweenRounds() {
+        Set<Team> smallTeamSet = new HashSet<>();
+        smallTeamSet.add(team1);
+        smallTeamSet.add(team2);
+        baseSeason.setTeams(smallTeamSet);
+        scheduler.scheduleMatchesForAllTeams(baseSeason);
+        //two teams -> just one match per round -> home and away should be switched between the two matches
+        Match firstMatch = baseSeason.getMatches().get(0);
+        Match secondMatch = baseSeason.getMatches().get(1);
+        assertEquals(firstMatch.getHomeTeam(),secondMatch.getAwayTeam(),"home and away teams of a team pairing should change between first and second round");
+
+
     }
 
 }
